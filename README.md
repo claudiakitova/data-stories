@@ -1,6 +1,6 @@
 # Data Stories
 
-Five Jupyter notebook projects I did in early 2020 while learning data science. They used to be five separate repos. Each folder here is one of them, with its original commit history.
+These are study projects, meant for learning and teaching data science.
 
 | Project | About | Tools |
 |---|---|---|
