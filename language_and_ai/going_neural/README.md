@@ -17,7 +17,7 @@ The full text of *Going Postal* (2004), about 117,000 words. Words seen at least
 
 ## Results
 
-- Names and the words around them come out close: "vetinari" is nearest to "lord" (0.78) and "adora" to "belle" (0.94).
+- Names and the words around them come out close: "vetinari" is nearest to "lord" (0.78), and "adora" to "belle" (0.94) and "dearheart" (0.66).
 - Characters who share scenes or roles are alike: Reacher Gilt and Greenyham (0.53), Vetinari and Drumknott (0.52), Stanley and Groat (0.49).
 - One book is too little text for analogies: "man is to woman as he is to ?" does not give "she".
 
