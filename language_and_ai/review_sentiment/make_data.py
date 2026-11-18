@@ -1,6 +1,6 @@
 """Makes the synthetic data for the review sentiment notebook.
 
-An invoicing app for small businesses (estimates, invoices, card payments) collects reviews from the
+An app for small businesses (estimates, invoices, card payments) collects reviews from the
 App Store, Google Play and Trustpilot, and ships app releases every few weeks. Every review, author,
 version and release here is generated.
 
