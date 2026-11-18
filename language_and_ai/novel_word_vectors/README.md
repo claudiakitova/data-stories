@@ -2,7 +2,7 @@
 
 What does a small neural network learn about words from a single novel?
 
-**Notebook:** [word_vectors.ipynb](word_vectors.ipynb) · **Data:** the text of Terry Pratchett's *Going Postal*, not included here because the book is under copyright
+**Notebook:** [novel_word_vectors.ipynb](novel_word_vectors.ipynb) · **Data:** the text of Terry Pratchett's *Going Postal*, not included here because the book is under copyright
 
 ## Data
 
