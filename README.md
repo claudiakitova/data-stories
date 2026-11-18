@@ -7,7 +7,8 @@ Study projects for learning and teaching data science: real-life questions answe
 | Project | Question | Tools |
 |---|---|---|
 | [game_player_value](business_analytics/game_player_value/) | How much will a new player of a mobile game bring in over 120 days, judging by their first week? | pandas, LightGBM |
-| [food_delivery](business_analytics/food_delivery/) (2 notebooks) | Do a few vendors dominate each market, why does a regression overstate what vouchers do, and what moved orders across Bahrain? | scikit-learn (k-means), statsmodels |
+| [food_delivery](business_analytics/food_delivery/) | Do a few vendors dominate each market, what vendor segments exist, and why does a regression overstate what vouchers do? | scikit-learn (k-means), statsmodels |
+| [bahrain_orders](business_analytics/bahrain_orders/) | Which areas and vendors drove the ups and downs of food orders across Bahrain, and how much was Ramadan and the summer? | statsmodels (Poisson regression) |
 | [promo_forecast](business_analytics/promo_forecast/) | How many units will each store sell of a product on promotion? | pandas, LightGBM |
 | [car_prices](business_analytics/car_prices/) | What sets a car's price, and how closely can its specifications predict it? | scikit-learn, XGBoost |
 

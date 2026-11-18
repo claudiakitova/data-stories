@@ -2,7 +2,7 @@
 across the areas of Bahrain, February to July 2024. The area names are real places; the vendors and
 every order count are generated.
 
-Run: python make_area_data.py  (writes area_orders.csv)
+Run: python make_data.py  (writes area_orders.csv)
 """
 import numpy as np
 import pandas as pd
