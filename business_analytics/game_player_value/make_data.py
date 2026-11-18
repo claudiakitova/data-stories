@@ -1,7 +1,7 @@
-"""Makes the event log for the Bee Quest notebook, in the format of the original test task.
+"""Makes the synthetic event log for the Bee Quest notebook.
 
-The players and events are generated; their overall shape follows the original task data (a few
-players bring most of the money, the US brings most of the revenue, most players leave on day 1).
+Every player and event here is generated: a few players bring most of the money, the US brings
+the largest share of the revenue, and most players leave on day 1.
 
 Run: python make_data.py  (writes task.csv.gz)
 
