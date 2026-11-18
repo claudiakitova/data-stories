@@ -2,7 +2,7 @@
 
 Which neighborhoods of Krasnodar, Russia, are the most comfortable to live in, judging by what's around them?
 
-**Notebook:** [krasnodar_neighbourhoods.ipynb](krasnodar_neighbourhoods.ipynb)
+**Notebook:** [city_neighbourhoods.ipynb](city_neighbourhoods.ipynb)
 
 ## Data
 

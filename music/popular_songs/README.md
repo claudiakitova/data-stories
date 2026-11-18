@@ -1,6 +1,6 @@
 # Popular Caucasian Songs: Does the Sound Explain the Hit?
 
-**Notebook:** [caucasus_spotify_analytics.ipynb](caucasus_spotify_analytics.ipynb) · **Data:** [caucasus_music.csv](caucasus_music.csv)
+**Notebook:** [popular_songs.ipynb](popular_songs.ipynb) · **Data:** [caucasus_music.csv](caucasus_music.csv)
 
 Yandex.Music's "Caucasian music" genre has about 500 tracks, and some of them become hits far beyond the Caucasus. 477 of them were matched with their Spotify audio features (danceability, energy, mood, tempo, and others) and popularity, to see whether a song's sound explains its popularity.
 

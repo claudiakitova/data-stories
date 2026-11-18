@@ -28,7 +28,7 @@ Study projects for learning and teaching data science: real-life questions answe
 |---|---|---|
 | [company_docs_chatbot](language_and_ai/company_docs_chatbot/) | How well can a chatbot find the right passage in a company's internal documents? | FastEmbed, BM25 |
 | [movie_review_sentiment](language_and_ai/movie_review_sentiment/) | Is an IMDB movie review positive or negative? A neural network, plus a function that scores any text | TensorFlow / Keras |
-| [company_review_sentiment](language_and_ai/company_review_sentiment/) | What do customers complain about in an app's reviews, how did it change over ten years, and which releases did they like least? | scikit-learn (TF-IDF, linear SVM), plotly |
+| [company_review_sentiment](language_and_ai/company_review_sentiment/) | What do customers of a booking app complain about, how did it change over ten years, and which releases did they like least? | scikit-learn (TF-IDF, linear SVM), plotly |
 | [word_vectors](language_and_ai/word_vectors/) | What does word2vec learn about words from a single novel? | PyTorch, scikit-learn (t-SNE), plotly |
 
 ## Climate and science
@@ -43,7 +43,7 @@ Study projects for learning and teaching data science: real-life questions answe
 
 | Project | Question | Tools |
 |---|---|---|
-| [krasnodar_neighbourhoods](cities_and_travel/krasnodar_neighbourhoods/) | Which neighborhoods of Krasnodar, Russia, are the most comfortable to live in, judging by the venues around them? | pandas, geopy, scikit-learn (k-means) |
+| [city_neighbourhoods](cities_and_travel/city_neighbourhoods/) | Which neighborhoods of Krasnodar, Russia, are the most comfortable to live in, judging by the venues around them? | pandas, geopy, scikit-learn (k-means) |
 | [flight_delays](cities_and_travel/flight_delays/) | Will a flight arrive on time, given its date, time, and route? | pandas, scikit-learn (random forest) |
 
 ## Music
@@ -51,7 +51,7 @@ Study projects for learning and teaching data science: real-life questions answe
 | Project | Question | Tools |
 |---|---|---|
 | [city_listening](music/city_listening/) | Do Moscow and St. Petersburg listen to music on different schedules and prefer different genres? | pandas |
-| [caucasian_songs](music/caucasian_songs/) | Does a song's sound explain the popularity of top Caucasian songs? | scikit-learn (PCA, t-SNE), plotly |
+| [popular_songs](music/popular_songs/) | Does a song's sound explain the popularity of top Caucasian songs? | scikit-learn (PCA, t-SNE), plotly |
 | [melody_generation](music/melody_generation/) | Can a small neural network continue a melody the way Bach wrote them? | TensorFlow / Keras (LSTM), music21 |
 
 ## Running

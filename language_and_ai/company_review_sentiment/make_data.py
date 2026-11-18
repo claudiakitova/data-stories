@@ -1,8 +1,8 @@
 """Makes the synthetic data for the review sentiment notebook.
 
-An app for small businesses (estimates, invoices, card payments) collects reviews from the
-App Store, Google Play and Trustpilot, and ships app releases every few weeks. Every review, author,
-version and release here is generated.
+A booking app for small businesses (salons, studios, tutors: online booking, reminders, card payments)
+collects reviews from the App Store, Google Play and Trustpilot, and ships app releases every few weeks.
+Every review, author, version and release here is generated.
 
 Run: python make_data.py  (writes reviews.csv and releases.csv)
 """
@@ -13,11 +13,11 @@ rng = np.random.default_rng(7)
 START, END = pd.Timestamp("2016-10-01"), pd.Timestamp("2026-11-04")
 
 # ---------- releases: a new version every few weeks on each store ----------
-items_pool = ["Faster estimate loading", "New invoice templates", "Fix crash when adding photos",
-              "Card payments on invoices", "Deposits on estimates", "Tax rate settings", "New home screen",
-              "Subscription plans screen", "Fix sync between phone and web", "Offline mode improvements",
-              "Customer list search", "PDF layout fixes", "Tap to pay", "Faster payouts", "Login with Google",
-              "Upgrade prompts", "Reports screen", "Fix password reset", "Bulk printing", "Recurring invoices"]
+items_pool = ["Faster calendar loading", "New booking page themes", "Fix crash when adding photos",
+              "Card payments at booking", "Deposits for appointments", "Cancellation fee settings", "New home screen",
+              "Subscription plans screen", "Fix sync between phone and web", "Offline calendar improvements",
+              "Client list search", "Reminder text fixes", "Tap to pay", "Faster payouts", "Login with Google",
+              "Upgrade prompts", "Reports screen", "Fix password reset", "Group classes", "Recurring appointments"]
 releases = []
 for store, prefix, gap in [("App Store", 3, 27), ("Google Play", 2, 24)]:
     day, minor = START - pd.Timedelta(days=20), 0
@@ -38,53 +38,53 @@ def version_at(store, when):
     return r.iloc[-1 - lag].version
 
 # ---------- what reviews say ----------
-POS_TITLES = ["Love it", "Great app", "Easy to use", "Best invoicing app", "Works great", "Saves me time",
+POS_TITLES = ["Love it", "Great app", "Easy to use", "Best booking app", "Works great", "Saves me time",
               "Very professional", "Simple and fast", "Highly recommend", "Excellent", "Five stars", "Must have"]
-POS = ["I can send an estimate from the job site in a few minutes.", "My customers love the professional invoices.",
-       "Getting paid is so much faster now.", "Turning an estimate into an invoice takes one tap.",
-       "I use it every day for my {trade} business.", "Works the same on my phone and my laptop.",
-       "Worth every penny.", "Printing and emailing invoices is easy.", "Highly recommend to any small business.",
-       "Support answered in an hour and fixed my problem.", "Saves me hours of paperwork every week.",
-       "Clean and simple, does exactly what I need.", "My customers can pay by card right from the invoice.",
-       "Best app I have found for estimates.", "Great app.", "Love it!", "Easy to use.", "Very helpful app.",
-       "Looks professional and my clients notice.", "Keeps all my customers and jobs in one place."]
-TRADES = ["painting", "plumbing", "landscaping", "cleaning", "handyman", "roofing", "electrical", "flooring"]
+POS = ["My clients book themselves now, even at night.", "My clients love the booking page.",
+       "Getting paid is so much faster now.", "Rebooking a regular client takes one tap.",
+       "I use it every day for my {trade}.", "Works the same on my phone and my laptop.",
+       "Worth every penny.", "The reminders cut my no-shows in half.", "Highly recommend to any small business.",
+       "Support answered in an hour and fixed my problem.", "Saves me hours on the phone every week.",
+       "Clean and simple, does exactly what I need.", "My clients can pay by card when they book.",
+       "Best app I have found for appointments.", "Great app.", "Love it!", "Easy to use.", "Very helpful app.",
+       "Looks professional and my clients notice.", "Keeps all my clients and appointments in one place."]
+TRADES = ["hair salon", "barbershop", "nail studio", "massage practice", "yoga studio", "dog grooming", "tutoring", "tattoo studio"]
 NEG_TITLES = ["Disappointed", "Terrible", "Not worth it", "Used to love it", "Do not download", "Waste of time",
               "Frustrating", "Very bad", "Getting worse", "Avoid"]
 THEMES = {
     "pricing": ["It used to be free and now they want a monthly subscription.", "Way too expensive for a small business.",
-                "The price went up again with no warning.", "They charge a fee on every payment on top of the subscription.",
+                "The price went up again with no warning.", "They charge a fee on every booking on top of the subscription.",
                 "I cancelled my subscription and still got charged.", "Basic features are now behind a paywall.",
-                "Greedy. Not worth the money anymore.", "Can't send an invoice without upgrading to premium.",
+                "Greedy. Not worth the money anymore.", "Can't add a second staff member without upgrading to premium.",
                 "The monthly price doubled this year.", "Bait and switch: free to start, then they make you pay."],
-    "crashes": ["The app keeps crashing when I open an estimate.", "Crashes every time I add a photo.",
+    "crashes": ["The app keeps crashing when I open the calendar.", "Crashes every time I add a photo.",
                 "Full of bugs since the last update.", "Freezes on the loading screen.", "It stopped working after the update."],
-    "speed": ["Very slow to load.", "Sync takes forever and my invoices don't show on the laptop.",
-              "Useless on a job site with no internet connection."],
-    "payments": ["Payments take a week to reach my bank.", "My customer paid by credit card and the funds are on hold.",
+    "speed": ["Very slow to load.", "Sync takes forever and new bookings don't show on the laptop.",
+              "Useless without an internet connection."],
+    "payments": ["Payments take a week to reach my bank.", "My client paid by credit card and the funds are on hold.",
                  "The payment processing fees are too high.", "A deposit never showed up in my bank account.",
-                 "Customers can't pay with PayPal anymore."],
+                 "Clients can't pay with PayPal anymore."],
     "support": ["Support never responds.", "Nobody answers the chat.", "I sent three emails to customer service and got no reply."],
     "login": ["Locked out of my account and the password reset doesn't work.", "It keeps logging me out."],
-    "lost data": ["I lost my whole customer list after the update.", "Two of my estimates disappeared."],
-    "sending": ["Can't print more than one invoice at a time.", "The PDF my customer gets looks different from the app.",
-                "Emails to my customers go to spam."],
-    "features": ["The new layout is confusing.", "I wish I could set my own tax rates.", "Too many pop ups asking me to upgrade.",
+    "lost data": ["I lost my whole client list after the update.", "Two of my appointments disappeared."],
+    "sending": ["Reminders go out at the wrong time.", "My clients never get the reminder text.",
+                "Booking confirmation emails go to spam."],
+    "features": ["The new layout is confusing.", "I wish I could set my own cancellation rules.", "Too many pop ups asking me to upgrade.",
                  "The update changed everything and now it's hard to find anything."],
 }
 GENERIC_NEG = ["Terrible.", "Waste of time.", "Garbage app.", "Not good at all.", "Do not download.",
                "It was great until the last update.", "Very disappointed.", "Uninstalling.", "Bad.", "Doesn't work.",
                "Too expensive.", "Meh."]
-PAST_GOOD = ["I used to love this app.", "It was easy to use at first.", "I have used it for years for my {trade} business.",
-             "This used to be the best app for estimates.", "Great idea, poor execution."]
-MILD = ["Wish it had more templates.", "Would be nice to add my logo in color.", "A dark mode would be nice.",
+PAST_GOOD = ["I used to love this app.", "It was easy to use at first.", "I have used it for years for my {trade}.",
+             "This used to be the best app for appointments.", "Great idea, poor execution."]
+MILD = ["Wish it had more booking page themes.", "Would be nice to add my logo in color.", "A dark mode would be nice.",
         "Takes a minute to learn.", "A bit pricey but worth it.", "Had one small glitch but support fixed it."]
-FILLER = ["I do {trade} work.", "Downloaded it last month.", "Been using it since {year}.", "My wife does the books with it.",
-          "I run a small crew.", "Tried a few other apps first."]
+FILLER = ["I run a {trade}.", "Downloaded it last month.", "Been using it since {year}.", "My partner does the books with it.",
+          "We are three people.", "Tried a few other apps first."]
 BUT = ["Great app, but", "Love the app but", "Works well, but", "Good app overall, however", "Good app.", "Still my favorite.", ""]
 VAGUE = ["Ok.", "It's fine.", "Does the job.", "Not bad.", "Could be better.", "It works I guess.", "Needs work.",
          "Pretty good.", "Not sure yet.", "Alright."]
-NEUTRAL_TITLES = ["Invoicing app", "Review", "My experience", "Update", "Estimates", "Small business", "Ok"]
+NEUTRAL_TITLES = ["Booking app", "Review", "My experience", "Update", "Appointments", "Small business", "Ok"]
 
 def fill(text, t):
     return text.replace("{trade}", rng.choice(TRADES)).replace("{year}", str(int(rng.integers(2014, t.year + 1))))

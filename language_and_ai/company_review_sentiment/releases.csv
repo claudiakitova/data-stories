@@ -1,351 +1,351 @@
 store,version,released_at,tickets,is_hotfix,items
 App Store,3.0.0,2016-09-11,28,no,"Tap to pay
 Fix password reset
-PDF layout fixes"
-App Store,3.1.0,2016-10-03,11,no,"Faster estimate loading
+Reminder text fixes"
+App Store,3.1.0,2016-10-03,11,no,"Faster calendar loading
 Reports screen
-Offline mode improvements
+Offline calendar improvements
 Upgrade prompts"
 App Store,3.2.0,2016-10-29,12,no,"Faster payouts
-Tax rate settings"
+Cancellation fee settings"
 App Store,3.4.0,2016-12-23,16,no,Reports screen
 App Store,3.5.0,2017-01-13,6,no,Fix sync between phone and web
 App Store,3.6.0,2017-02-01,29,no,"Upgrade prompts
-Bulk printing"
+Group classes"
 App Store,3.8.0,2017-03-21,29,no,"Login with Google
 Upgrade prompts
-Card payments on invoices"
-App Store,3.9.0,2017-04-09,21,no,Customer list search
+Card payments at booking"
+App Store,3.9.0,2017-04-09,21,no,Client list search
 App Store,3.10.0,2017-05-02,8,no,"Login with Google
 Reports screen
-Bulk printing"
+Group classes"
 App Store,3.11.0,2017-06-27,6,no,Faster payouts
 App Store,3.13.0,2017-08-23,18,no,"New home screen
 Fix sync between phone and web
 Tap to pay
-Customer list search"
-App Store,3.14.0,2017-09-22,18,no,"Deposits on estimates
+Client list search"
+App Store,3.14.0,2017-09-22,18,no,"Deposits for appointments
 New home screen"
-App Store,3.14.1,2017-10-17,2,yes,"Card payments on invoices
-Faster estimate loading
+App Store,3.14.1,2017-10-17,2,yes,"Card payments at booking
+Faster calendar loading
 Faster payouts
 Reports screen"
 App Store,3.15.0,2017-11-19,17,no,Reports screen
 App Store,3.16.0,2017-12-22,19,no,"Fix crash when adding photos
-Customer list search
+Client list search
 Reports screen
-Tax rate settings"
+Cancellation fee settings"
 App Store,3.17.0,2018-01-25,5,no,Subscription plans screen
-App Store,3.18.0,2018-02-28,19,no,"Recurring invoices
-New invoice templates
+App Store,3.18.0,2018-02-28,19,no,"Recurring appointments
+New booking page themes
 Subscription plans screen"
-App Store,3.18.1,2018-03-23,3,yes,"Customer list search
+App Store,3.18.1,2018-03-23,3,yes,"Client list search
 Login with Google
-Offline mode improvements
+Offline calendar improvements
 Fix sync between phone and web"
 App Store,3.18.1,2018-04-23,3,yes,"Upgrade prompts
-Faster estimate loading"
-App Store,3.19.0,2018-05-14,6,no,"New invoice templates
+Faster calendar loading"
+App Store,3.19.0,2018-05-14,6,no,"New booking page themes
 Faster payouts
 Fix sync between phone and web"
-App Store,3.20.0,2018-06-16,5,no,"Tax rate settings
+App Store,3.20.0,2018-06-16,5,no,"Cancellation fee settings
 Fix password reset
 Tap to pay"
 App Store,3.21.0,2018-07-13,24,no,"Subscription plans screen
-Bulk printing
+Group classes
 Reports screen
 Fix crash when adding photos"
 App Store,3.22.0,2018-08-13,20,no,Reports screen
 App Store,3.23.0,2018-09-08,29,no,Fix password reset
 App Store,3.24.0,2018-10-07,28,no,"Faster payouts
-Deposits on estimates
-New invoice templates"
+Deposits for appointments
+New booking page themes"
 App Store,3.27.0,2018-12-27,9,no,"Fix crash when adding photos
-Offline mode improvements
-Bulk printing
-Customer list search"
-App Store,3.28.0,2019-01-27,25,no,"Recurring invoices
+Offline calendar improvements
+Group classes
+Client list search"
+App Store,3.28.0,2019-01-27,25,no,"Recurring appointments
 Fix password reset"
-App Store,3.29.0,2019-02-21,6,no,Deposits on estimates
-App Store,3.30.0,2019-03-19,18,no,"Deposits on estimates
+App Store,3.29.0,2019-02-21,6,no,Deposits for appointments
+App Store,3.30.0,2019-03-19,18,no,"Deposits for appointments
 Tap to pay
 Reports screen
 Login with Google"
 App Store,3.32.0,2019-05-08,11,no,"Faster payouts
 Fix crash when adding photos
 Upgrade prompts
-PDF layout fixes"
+Reminder text fixes"
 App Store,3.33.0,2019-06-04,15,no,"New home screen
-Tax rate settings
+Cancellation fee settings
 Fix crash when adding photos"
 App Store,3.34.0,2019-06-30,14,no,"Login with Google
-Card payments on invoices
-New invoice templates"
+Card payments at booking
+New booking page themes"
 App Store,3.35.0,2019-07-25,22,no,"Upgrade prompts
 Faster payouts
-Bulk printing
+Group classes
 Fix crash when adding photos"
 App Store,3.36.0,2019-08-26,27,no,"Fix password reset
-Tax rate settings
+Cancellation fee settings
 Login with Google"
 App Store,3.37.0,2019-10-06,10,no,New home screen
-App Store,3.38.0,2019-11-04,6,no,"Offline mode improvements
-Faster estimate loading
-New invoice templates"
-App Store,3.39.0,2019-12-08,20,no,"Deposits on estimates
-PDF layout fixes
+App Store,3.38.0,2019-11-04,6,no,"Offline calendar improvements
+Faster calendar loading
+New booking page themes"
+App Store,3.39.0,2019-12-08,20,no,"Deposits for appointments
+Reminder text fixes
 Tap to pay
 Subscription plans screen"
-App Store,3.39.1,2020-01-05,1,yes,"Bulk printing
+App Store,3.39.1,2020-01-05,1,yes,"Group classes
 Fix password reset
-Recurring invoices
+Recurring appointments
 Subscription plans screen"
 App Store,3.40.0,2020-01-29,7,no,New home screen
 App Store,3.41.0,2020-02-27,11,no,"Fix password reset
 Tap to pay"
-App Store,3.41.1,2020-03-30,3,yes,"Card payments on invoices
+App Store,3.41.1,2020-03-30,3,yes,"Card payments at booking
 Tap to pay
 Upgrade prompts
-Offline mode improvements"
-App Store,3.42.0,2020-04-28,24,no,Offline mode improvements
+Offline calendar improvements"
+App Store,3.42.0,2020-04-28,24,no,Offline calendar improvements
 App Store,3.43.0,2020-05-28,27,no,"Login with Google
-Recurring invoices
+Recurring appointments
 New home screen
-PDF layout fixes"
+Reminder text fixes"
 App Store,3.44.0,2020-06-30,7,no,New home screen
-App Store,3.45.0,2020-07-19,21,no,Card payments on invoices
-App Store,3.46.0,2020-08-16,27,no,"Card payments on invoices
-Tax rate settings"
-App Store,3.47.0,2020-09-11,19,no,PDF layout fixes
-App Store,3.47.1,2020-10-06,1,yes,"Customer list search
+App Store,3.45.0,2020-07-19,21,no,Card payments at booking
+App Store,3.46.0,2020-08-16,27,no,"Card payments at booking
+Cancellation fee settings"
+App Store,3.47.0,2020-09-11,19,no,Reminder text fixes
+App Store,3.47.1,2020-10-06,1,yes,"Client list search
 Tap to pay
 Upgrade prompts"
 App Store,3.48.0,2020-10-31,11,no,Login with Google
-App Store,3.49.0,2020-11-23,26,no,"New invoice templates
-PDF layout fixes"
-App Store,3.50.0,2020-12-24,26,no,"New invoice templates
-Card payments on invoices"
+App Store,3.49.0,2020-11-23,26,no,"New booking page themes
+Reminder text fixes"
+App Store,3.50.0,2020-12-24,26,no,"New booking page themes
+Card payments at booking"
 App Store,3.50.1,2021-01-24,2,yes,Reports screen
-App Store,3.50.1,2021-02-14,3,yes,"Deposits on estimates
+App Store,3.50.1,2021-02-14,3,yes,"Deposits for appointments
 Tap to pay
 Upgrade prompts
 New home screen"
-App Store,3.51.0,2021-03-15,4,no,"Card payments on invoices
+App Store,3.51.0,2021-03-15,4,no,"Card payments at booking
 Fix password reset"
 App Store,3.52.0,2021-04-09,15,no,Faster payouts
 App Store,3.53.0,2021-05-10,17,no,"Tap to pay
 Subscription plans screen
 Login with Google
 New home screen"
-App Store,3.54.0,2021-06-06,25,no,Tax rate settings
-App Store,3.55.0,2021-06-29,9,no,"Recurring invoices
+App Store,3.54.0,2021-06-06,25,no,Cancellation fee settings
+App Store,3.55.0,2021-06-29,9,no,"Recurring appointments
 Fix password reset
-PDF layout fixes"
-App Store,3.57.0,2021-08-24,6,no,"Tax rate settings
+Reminder text fixes"
+App Store,3.57.0,2021-08-24,6,no,"Cancellation fee settings
 Subscription plans screen
 Tap to pay
-Customer list search"
+Client list search"
 App Store,3.58.0,2021-09-24,12,no,"Fix crash when adding photos
-Card payments on invoices
+Card payments at booking
 Fix sync between phone and web"
-App Store,3.58.1,2021-10-20,2,yes,"New invoice templates
+App Store,3.58.1,2021-10-20,2,yes,"New booking page themes
 Subscription plans screen
-Offline mode improvements
-Recurring invoices"
+Offline calendar improvements
+Recurring appointments"
 App Store,3.59.0,2021-11-20,4,no,"Reports screen
 New home screen
-Deposits on estimates
+Deposits for appointments
 Subscription plans screen"
 App Store,3.60.0,2021-12-21,7,no,New home screen
 App Store,3.61.0,2022-01-21,13,no,"Fix crash when adding photos
-Deposits on estimates
-New invoice templates
+Deposits for appointments
+New booking page themes
 Fix sync between phone and web"
 App Store,3.62.0,2022-02-10,17,no,"Fix password reset
 Fix sync between phone and web
-Bulk printing"
+Group classes"
 App Store,3.63.0,2022-03-04,23,no,Reports screen
-App Store,3.63.1,2022-04-05,1,yes,"Faster estimate loading
+App Store,3.63.1,2022-04-05,1,yes,"Faster calendar loading
 Fix crash when adding photos"
 App Store,3.64.0,2022-04-29,15,no,"Login with Google
 Fix sync between phone and web
-Deposits on estimates"
-App Store,3.65.1,2022-06-24,3,yes,"Card payments on invoices
+Deposits for appointments"
+App Store,3.65.1,2022-06-24,3,yes,"Card payments at booking
 Fix crash when adding photos
 Upgrade prompts"
-App Store,3.66.0,2022-07-27,28,no,Card payments on invoices
+App Store,3.66.0,2022-07-27,28,no,Card payments at booking
 App Store,3.67.0,2022-08-26,10,no,"Login with Google
 Reports screen
-Tax rate settings"
+Cancellation fee settings"
 App Store,3.68.0,2022-09-24,29,no,"Upgrade prompts
 Fix password reset"
 App Store,3.69.0,2022-10-27,10,no,New home screen
 App Store,3.70.0,2022-11-16,29,no,"Tap to pay
 Fix password reset
-Deposits on estimates
-Recurring invoices"
+Deposits for appointments
+Recurring appointments"
 App Store,3.71.0,2022-12-13,18,no,"Faster payouts
 Login with Google
 New home screen
-Faster estimate loading"
+Faster calendar loading"
 App Store,3.72.0,2023-01-02,27,no,"Fix password reset
 Reports screen"
 App Store,3.73.0,2023-02-02,29,no,"Login with Google
 Tap to pay
 Reports screen
-Tax rate settings"
-App Store,3.74.0,2023-03-05,12,no,New invoice templates
+Cancellation fee settings"
+App Store,3.74.0,2023-03-05,12,no,New booking page themes
 App Store,3.75.0,2023-04-05,14,no,"Login with Google
-Customer list search
-Bulk printing
+Client list search
+Group classes
 New home screen"
-App Store,3.77.0,2023-05-31,15,no,"New invoice templates
+App Store,3.77.0,2023-05-31,15,no,"New booking page themes
 Reports screen
-PDF layout fixes
-Tax rate settings"
+Reminder text fixes
+Cancellation fee settings"
 App Store,3.79.0,2023-07-29,22,no,"Faster payouts
 Fix sync between phone and web"
 App Store,3.80.0,2023-08-20,17,no,"Faster payouts
-New invoice templates
+New booking page themes
 Fix crash when adding photos
 Login with Google"
-App Store,3.82.0,2023-10-21,28,no,Recurring invoices
+App Store,3.82.0,2023-10-21,28,no,Recurring appointments
 App Store,3.83.0,2023-11-18,4,no,"Fix password reset
-Offline mode improvements
-Faster estimate loading
-Customer list search"
-App Store,3.83.1,2023-12-16,3,yes,"Deposits on estimates
-Faster estimate loading
-Tax rate settings"
+Offline calendar improvements
+Faster calendar loading
+Client list search"
+App Store,3.83.1,2023-12-16,3,yes,"Deposits for appointments
+Faster calendar loading
+Cancellation fee settings"
 App Store,3.84.0,2024-01-18,23,no,"Upgrade prompts
-Recurring invoices"
+Recurring appointments"
 App Store,3.85.0,2024-02-18,15,no,"Fix sync between phone and web
 Tap to pay
 Upgrade prompts
 Fix crash when adding photos"
-App Store,3.86.0,2024-03-19,14,no,"PDF layout fixes
-New invoice templates"
-App Store,3.87.0,2024-04-13,27,no,"Offline mode improvements
+App Store,3.86.0,2024-03-19,14,no,"Reminder text fixes
+New booking page themes"
+App Store,3.87.0,2024-04-13,27,no,"Offline calendar improvements
 Fix sync between phone and web"
 App Store,3.88.0,2024-05-14,5,no,"Fix crash when adding photos
 Reports screen"
-App Store,3.91.0,2024-08-02,13,no,"Card payments on invoices
+App Store,3.91.0,2024-08-02,13,no,"Card payments at booking
 Fix crash when adding photos"
-App Store,3.92.0,2024-08-25,10,no,"Customer list search
-Recurring invoices"
-App Store,3.93.0,2024-09-18,28,no,"Deposits on estimates
-PDF layout fixes"
-App Store,3.94.0,2024-10-23,26,no,"Tax rate settings
+App Store,3.92.0,2024-08-25,10,no,"Client list search
+Recurring appointments"
+App Store,3.93.0,2024-09-18,28,no,"Deposits for appointments
+Reminder text fixes"
+App Store,3.94.0,2024-10-23,26,no,"Cancellation fee settings
 New home screen"
-App Store,3.95.0,2024-11-26,28,no,"New invoice templates
+App Store,3.95.0,2024-11-26,28,no,"New booking page themes
 Fix crash when adding photos
-Deposits on estimates"
-App Store,3.96.0,2024-12-20,5,no,Recurring invoices
+Deposits for appointments"
+App Store,3.96.0,2024-12-20,5,no,Recurring appointments
 App Store,3.97.0,2025-01-15,16,no,"Fix crash when adding photos
-Recurring invoices
+Recurring appointments
 Fix sync between phone and web
 Upgrade prompts"
-App Store,3.98.0,2025-02-09,11,no,Customer list search
-App Store,3.99.0,2025-03-05,24,no,"New invoice templates
+App Store,3.98.0,2025-02-09,11,no,Client list search
+App Store,3.99.0,2025-03-05,24,no,"New booking page themes
 Fix sync between phone and web
 Login with Google
-Card payments on invoices"
+Card payments at booking"
 App Store,3.99.1,2025-03-31,1,yes,"Subscription plans screen
-Customer list search
-Deposits on estimates"
-App Store,3.100.0,2025-04-25,27,no,"Offline mode improvements
-Tax rate settings"
-App Store,3.101.0,2025-05-22,8,no,New invoice templates
-App Store,3.102.0,2025-06-26,26,no,"Tax rate settings
-Deposits on estimates"
+Client list search
+Deposits for appointments"
+App Store,3.100.0,2025-04-25,27,no,"Offline calendar improvements
+Cancellation fee settings"
+App Store,3.101.0,2025-05-22,8,no,New booking page themes
+App Store,3.102.0,2025-06-26,26,no,"Cancellation fee settings
+Deposits for appointments"
 App Store,3.103.0,2025-07-16,29,no,"Tap to pay
 Upgrade prompts
-Card payments on invoices
+Card payments at booking
 New home screen"
-App Store,3.104.0,2025-08-09,13,no,"Bulk printing
+App Store,3.104.0,2025-08-09,13,no,"Group classes
 Login with Google"
-App Store,3.105.0,2025-09-08,24,no,"New invoice templates
+App Store,3.105.0,2025-09-08,24,no,"New booking page themes
 Faster payouts
-Recurring invoices
+Recurring appointments
 New home screen"
 App Store,3.106.0,2025-10-04,5,no,Subscription plans screen
 App Store,3.107.0,2025-10-30,16,no,Reports screen
-App Store,3.108.0,2025-11-20,28,no,"Recurring invoices
+App Store,3.108.0,2025-11-20,28,no,"Recurring appointments
 Reports screen"
-App Store,3.109.0,2025-12-09,14,no,Recurring invoices
-App Store,3.109.1,2026-01-05,1,yes,"Recurring invoices
-Card payments on invoices"
+App Store,3.109.0,2025-12-09,14,no,Recurring appointments
+App Store,3.109.1,2026-01-05,1,yes,"Recurring appointments
+Card payments at booking"
 App Store,3.111.0,2026-02-26,25,no,"Fix sync between phone and web
 Reports screen"
 App Store,3.113.0,2026-04-17,28,no,Fix crash when adding photos
-App Store,3.114.0,2026-05-22,7,no,Tax rate settings
-App Store,3.114.1,2026-06-15,3,yes,"PDF layout fixes
+App Store,3.114.0,2026-05-22,7,no,Cancellation fee settings
+App Store,3.114.1,2026-06-15,3,yes,"Reminder text fixes
 Fix password reset
-Recurring invoices
+Recurring appointments
 Reports screen"
-App Store,3.115.0,2026-07-15,14,no,"Card payments on invoices
+App Store,3.115.0,2026-07-15,14,no,"Card payments at booking
 Fix password reset
-Bulk printing"
+Group classes"
 App Store,3.117.0,2026-09-08,19,no,"Faster payouts
 Fix password reset"
 App Store,3.118.0,2026-10-09,17,no,Fix sync between phone and web
-App Store,3.119.0,2026-10-30,11,no,"Bulk printing
+App Store,3.119.0,2026-10-30,11,no,"Group classes
 Fix sync between phone and web"
 Google Play,2.0.0,2016-09-11,4,no,"Fix sync between phone and web
 Fix password reset"
-Google Play,2.1.0,2016-10-08,8,no,"Faster estimate loading
+Google Play,2.1.0,2016-10-08,8,no,"Faster calendar loading
 New home screen"
-Google Play,2.2.0,2016-11-06,6,no,New invoice templates
+Google Play,2.2.0,2016-11-06,6,no,New booking page themes
 Google Play,2.4.0,2016-12-25,23,no,"Login with Google
 Faster payouts"
-Google Play,2.5.0,2017-01-12,17,no,Bulk printing
+Google Play,2.5.0,2017-01-12,17,no,Group classes
 Google Play,2.5.1,2017-02-05,2,yes,"Reports screen
-Customer list search
+Client list search
 Fix crash when adding photos"
 Google Play,2.7.0,2017-03-20,27,no,"Faster payouts
 Upgrade prompts"
 Google Play,2.8.0,2017-04-15,8,no,"Login with Google
-Offline mode improvements"
+Offline calendar improvements"
 Google Play,2.9.0,2017-05-12,7,no,New home screen
-Google Play,2.10.0,2017-06-13,9,no,Bulk printing
+Google Play,2.10.0,2017-06-13,9,no,Group classes
 Google Play,2.11.0,2017-07-11,26,no,"Fix password reset
-New invoice templates"
-Google Play,2.12.0,2017-08-03,19,no,"Offline mode improvements
-New invoice templates"
+New booking page themes"
+Google Play,2.12.0,2017-08-03,19,no,"Offline calendar improvements
+New booking page themes"
 Google Play,2.13.0,2017-08-22,8,no,Login with Google
 Google Play,2.14.0,2017-09-08,15,no,Subscription plans screen
-Google Play,2.15.0,2017-10-06,20,no,"New invoice templates
-PDF layout fixes"
+Google Play,2.15.0,2017-10-06,20,no,"New booking page themes
+Reminder text fixes"
 Google Play,2.15.1,2017-10-30,2,yes,Fix password reset
 Google Play,2.17.0,2018-01-16,11,no,"Subscription plans screen
 Fix sync between phone and web
-Bulk printing
-Offline mode improvements"
-Google Play,2.17.1,2018-02-06,3,yes,"Card payments on invoices
-Faster estimate loading"
-Google Play,2.18.0,2018-02-23,10,no,"Bulk printing
-Customer list search
-Offline mode improvements
+Group classes
+Offline calendar improvements"
+Google Play,2.17.1,2018-02-06,3,yes,"Card payments at booking
+Faster calendar loading"
+Google Play,2.18.0,2018-02-23,10,no,"Group classes
+Client list search
+Offline calendar improvements
 Tap to pay"
-Google Play,2.19.0,2018-03-20,23,no,"Recurring invoices
-New invoice templates
+Google Play,2.19.0,2018-03-20,23,no,"Recurring appointments
+New booking page themes
 Upgrade prompts"
-Google Play,2.20.0,2018-04-08,24,no,"Card payments on invoices
-Recurring invoices"
+Google Play,2.20.0,2018-04-08,24,no,"Card payments at booking
+Recurring appointments"
 Google Play,2.21.0,2018-05-04,19,no,Reports screen
 Google Play,2.22.0,2018-05-29,12,no,"Subscription plans screen
-Tax rate settings"
+Cancellation fee settings"
 Google Play,2.23.0,2018-06-20,14,no,"Fix crash when adding photos
-Customer list search
-Card payments on invoices"
+Client list search
+Card payments at booking"
 Google Play,2.24.0,2018-07-19,19,no,Subscription plans screen
-Google Play,2.25.0,2018-08-08,19,no,"Faster estimate loading
+Google Play,2.25.0,2018-08-08,19,no,"Faster calendar loading
 Reports screen
-Card payments on invoices
+Card payments at booking
 Faster payouts"
-Google Play,2.26.0,2018-08-27,16,no,"Card payments on invoices
+Google Play,2.26.0,2018-08-27,16,no,"Card payments at booking
 Login with Google
-New invoice templates
+New booking page themes
 Reports screen"
 Google Play,2.27.0,2018-09-20,16,no,"Faster payouts
 Fix crash when adding photos"
@@ -353,245 +353,245 @@ Google Play,2.28.0,2018-10-12,23,no,"Fix sync between phone and web
 Reports screen
 Faster payouts
 Fix crash when adding photos"
-Google Play,2.28.1,2018-11-10,2,yes,"Recurring invoices
-Offline mode improvements
+Google Play,2.28.1,2018-11-10,2,yes,"Recurring appointments
+Offline calendar improvements
 Fix crash when adding photos
-Bulk printing"
-Google Play,2.29.1,2018-12-24,3,yes,Bulk printing
+Group classes"
+Google Play,2.29.1,2018-12-24,3,yes,Group classes
 Google Play,2.30.0,2019-01-11,9,no,"Subscription plans screen
-PDF layout fixes"
+Reminder text fixes"
 Google Play,2.30.1,2019-01-31,1,yes,"Upgrade prompts
-Recurring invoices"
+Recurring appointments"
 Google Play,2.31.0,2019-02-20,15,no,"Subscription plans screen
 Login with Google
 Fix password reset
-Deposits on estimates"
+Deposits for appointments"
 Google Play,2.32.0,2019-03-13,16,no,"Fix sync between phone and web
 Fix crash when adding photos"
-Google Play,2.33.0,2019-04-05,24,no,"PDF layout fixes
+Google Play,2.33.0,2019-04-05,24,no,"Reminder text fixes
 Subscription plans screen
 Fix crash when adding photos
 Login with Google"
-Google Play,2.34.1,2019-05-10,3,yes,"Faster estimate loading
-Bulk printing"
+Google Play,2.34.1,2019-05-10,3,yes,"Faster calendar loading
+Group classes"
 Google Play,2.36.0,2019-06-18,15,no,"Upgrade prompts
 Tap to pay
-Recurring invoices"
+Recurring appointments"
 Google Play,2.37.0,2019-07-06,13,no,"Tap to pay
 Upgrade prompts"
-Google Play,2.38.0,2019-08-06,16,no,"Offline mode improvements
-Deposits on estimates"
+Google Play,2.38.0,2019-08-06,16,no,"Offline calendar improvements
+Deposits for appointments"
 Google Play,2.40.0,2019-09-29,9,no,"Subscription plans screen
-Recurring invoices
+Recurring appointments
 Fix sync between phone and web
-New invoice templates"
-Google Play,2.41.0,2019-11-19,16,no,"Customer list search
+New booking page themes"
+Google Play,2.41.0,2019-11-19,16,no,"Client list search
 Upgrade prompts
 New home screen"
-Google Play,2.42.0,2019-12-08,15,no,"Offline mode improvements
+Google Play,2.42.0,2019-12-08,15,no,"Offline calendar improvements
 Upgrade prompts"
-Google Play,2.43.0,2019-12-30,12,no,"Tax rate settings
-Card payments on invoices
+Google Play,2.43.0,2019-12-30,12,no,"Cancellation fee settings
+Card payments at booking
 Login with Google"
-Google Play,2.44.0,2020-01-26,11,no,"Offline mode improvements
+Google Play,2.44.0,2020-01-26,11,no,"Offline calendar improvements
 Tap to pay"
-Google Play,2.46.0,2020-03-08,23,no,Deposits on estimates
-Google Play,2.46.1,2020-04-05,2,yes,"Card payments on invoices
+Google Play,2.46.0,2020-03-08,23,no,Deposits for appointments
+Google Play,2.46.1,2020-04-05,2,yes,"Card payments at booking
 Faster payouts
-Tax rate settings
-Recurring invoices"
-Google Play,2.47.0,2020-05-07,15,no,"Faster estimate loading
-Bulk printing
-Offline mode improvements"
-Google Play,2.48.0,2020-05-23,26,no,"Tax rate settings
-Recurring invoices
+Cancellation fee settings
+Recurring appointments"
+Google Play,2.47.0,2020-05-07,15,no,"Faster calendar loading
+Group classes
+Offline calendar improvements"
+Google Play,2.48.0,2020-05-23,26,no,"Cancellation fee settings
+Recurring appointments
 Faster payouts"
 Google Play,2.48.1,2020-06-13,2,yes,Login with Google
 Google Play,2.48.1,2020-07-08,3,yes,Reports screen
-Google Play,2.48.1,2020-07-29,2,yes,Deposits on estimates
-Google Play,2.49.0,2020-08-29,27,no,PDF layout fixes
+Google Play,2.48.1,2020-07-29,2,yes,Deposits for appointments
+Google Play,2.49.0,2020-08-29,27,no,Reminder text fixes
 Google Play,2.49.1,2020-09-26,2,yes,Subscription plans screen
 Google Play,2.51.0,2020-11-13,29,no,Fix crash when adding photos
-Google Play,2.52.0,2020-12-01,9,no,Tax rate settings
+Google Play,2.52.0,2020-12-01,9,no,Cancellation fee settings
 Google Play,2.53.0,2020-12-19,15,no,"New home screen
-Offline mode improvements"
+Offline calendar improvements"
 Google Play,2.56.0,2021-02-17,9,no,Fix crash when adding photos
 Google Play,2.56.1,2021-03-20,1,yes,Subscription plans screen
 Google Play,2.57.0,2021-04-16,28,no,"Fix sync between phone and web
-Card payments on invoices
-Deposits on estimates
+Card payments at booking
+Deposits for appointments
 Tap to pay"
-Google Play,2.58.0,2021-05-16,25,no,Bulk printing
-Google Play,2.59.0,2021-06-15,27,no,"Customer list search
+Google Play,2.58.0,2021-05-16,25,no,Group classes
+Google Play,2.59.0,2021-06-15,27,no,"Client list search
 New home screen"
-Google Play,2.60.0,2021-07-01,25,no,Deposits on estimates
-Google Play,2.61.0,2021-07-29,19,no,"Bulk printing
+Google Play,2.60.0,2021-07-01,25,no,Deposits for appointments
+Google Play,2.61.0,2021-07-29,19,no,"Group classes
 Reports screen
 Login with Google
 New home screen"
-Google Play,2.62.0,2021-08-29,7,no,Card payments on invoices
+Google Play,2.62.0,2021-08-29,7,no,Card payments at booking
 Google Play,2.64.0,2021-10-08,27,no,"Fix password reset
 Fix crash when adding photos
 New home screen
-Deposits on estimates"
+Deposits for appointments"
 Google Play,2.66.0,2021-11-18,14,no,Fix sync between phone and web
 Google Play,2.67.1,2022-01-09,2,yes,"Faster payouts
-Card payments on invoices"
+Card payments at booking"
 Google Play,2.68.0,2022-01-25,22,no,Upgrade prompts
 Google Play,2.70.0,2022-03-09,10,no,"Reports screen
 Fix sync between phone and web
-Offline mode improvements
+Offline calendar improvements
 Faster payouts"
 Google Play,2.71.0,2022-03-29,19,no,"Login with Google
-Recurring invoices"
+Recurring appointments"
 Google Play,2.72.0,2022-04-19,9,no,"Reports screen
-Customer list search
-Faster estimate loading
-Tax rate settings"
-Google Play,2.73.0,2022-05-11,25,no,Customer list search
-Google Play,2.74.0,2022-05-31,5,no,PDF layout fixes
+Client list search
+Faster calendar loading
+Cancellation fee settings"
+Google Play,2.73.0,2022-05-11,25,no,Client list search
+Google Play,2.74.0,2022-05-31,5,no,Reminder text fixes
 Google Play,2.75.0,2022-06-27,15,no,"Reports screen
 Tap to pay
 Fix crash when adding photos
-Recurring invoices"
-Google Play,2.76.0,2022-07-29,20,no,"Deposits on estimates
-New invoice templates
+Recurring appointments"
+Google Play,2.76.0,2022-07-29,20,no,"Deposits for appointments
+New booking page themes
 Tap to pay
 Upgrade prompts"
 Google Play,2.77.0,2022-08-17,28,no,"Fix crash when adding photos
-Customer list search"
+Client list search"
 Google Play,2.78.0,2022-09-04,27,no,"Fix password reset
-Faster estimate loading
+Faster calendar loading
 Tap to pay
 Fix crash when adding photos"
-Google Play,2.79.0,2022-09-22,26,no,"Deposits on estimates
+Google Play,2.79.0,2022-09-22,26,no,"Deposits for appointments
 Fix crash when adding photos
 Fix sync between phone and web"
 Google Play,2.80.0,2022-10-11,13,no,"Login with Google
 Subscription plans screen"
 Google Play,2.81.0,2022-11-03,28,no,Fix sync between phone and web
 Google Play,2.82.0,2022-12-01,20,no,"Subscription plans screen
-Customer list search
+Client list search
 Login with Google
 Fix password reset"
 Google Play,2.82.1,2023-01-29,3,yes,"Subscription plans screen
-Recurring invoices"
-Google Play,2.83.0,2023-02-14,12,no,Bulk printing
-Google Play,2.84.0,2023-03-03,18,no,"PDF layout fixes
+Recurring appointments"
+Google Play,2.83.0,2023-02-14,12,no,Group classes
+Google Play,2.84.0,2023-03-03,18,no,"Reminder text fixes
 New home screen
-New invoice templates"
-Google Play,2.85.0,2023-04-01,15,no,"Card payments on invoices
+New booking page themes"
+Google Play,2.85.0,2023-04-01,15,no,"Card payments at booking
 Fix sync between phone and web
 Fix crash when adding photos"
-Google Play,2.86.0,2023-04-27,27,no,"Customer list search
+Google Play,2.86.0,2023-04-27,27,no,"Client list search
 Fix password reset
 Subscription plans screen
 Upgrade prompts"
 Google Play,2.87.0,2023-05-22,17,no,"Login with Google
-Deposits on estimates
+Deposits for appointments
 Reports screen"
 Google Play,2.88.0,2023-06-19,24,no,"Reports screen
 Upgrade prompts"
 Google Play,2.89.0,2023-07-07,18,no,"Fix password reset
-Offline mode improvements
+Offline calendar improvements
 Subscription plans screen"
-Google Play,2.90.0,2023-07-30,28,no,"Bulk printing
-Recurring invoices"
-Google Play,2.91.0,2023-08-20,27,no,"PDF layout fixes
-Bulk printing"
-Google Play,2.91.1,2023-09-21,1,yes,"Bulk printing
+Google Play,2.90.0,2023-07-30,28,no,"Group classes
+Recurring appointments"
+Google Play,2.91.0,2023-08-20,27,no,"Reminder text fixes
+Group classes"
+Google Play,2.91.1,2023-09-21,1,yes,"Group classes
 Subscription plans screen
-Customer list search
-New invoice templates"
-Google Play,2.92.0,2023-10-07,23,no,Customer list search
-Google Play,2.93.0,2023-10-29,26,no,"Card payments on invoices
+Client list search
+New booking page themes"
+Google Play,2.92.0,2023-10-07,23,no,Client list search
+Google Play,2.93.0,2023-10-29,26,no,"Card payments at booking
 Upgrade prompts
 Tap to pay"
 Google Play,2.94.0,2023-11-19,15,no,Reports screen
 Google Play,2.95.0,2023-12-11,14,no,Fix sync between phone and web
-Google Play,2.96.0,2024-01-10,11,no,"Deposits on estimates
+Google Play,2.96.0,2024-01-10,11,no,"Deposits for appointments
 Upgrade prompts"
-Google Play,2.97.0,2024-01-30,29,no,Tax rate settings
-Google Play,2.98.0,2024-02-17,19,no,"Card payments on invoices
+Google Play,2.97.0,2024-01-30,29,no,Cancellation fee settings
+Google Play,2.98.0,2024-02-17,19,no,"Card payments at booking
 Fix crash when adding photos"
 Google Play,2.99.0,2024-03-12,21,no,"Faster payouts
 Login with Google
 Fix crash when adding photos"
 Google Play,2.100.0,2024-03-29,10,no,"Fix sync between phone and web
-Bulk printing
-Faster estimate loading
+Group classes
+Faster calendar loading
 Upgrade prompts"
 Google Play,2.101.0,2024-04-28,18,no,"Fix password reset
-New invoice templates
+New booking page themes
 Tap to pay
 Login with Google"
 Google Play,2.102.0,2024-05-26,11,no,"Reports screen
 New home screen"
 Google Play,2.103.0,2024-06-21,9,no,"Upgrade prompts
-Offline mode improvements
-Card payments on invoices
-Faster estimate loading"
+Offline calendar improvements
+Card payments at booking
+Faster calendar loading"
 Google Play,2.104.0,2024-07-20,14,no,"Reports screen
-New invoice templates
+New booking page themes
 Login with Google"
 Google Play,2.104.1,2024-09-04,1,yes,"Fix sync between phone and web
 Subscription plans screen"
 Google Play,2.105.0,2024-09-29,6,no,"Fix sync between phone and web
-Bulk printing
-Recurring invoices
+Group classes
+Recurring appointments
 New home screen"
 Google Play,2.106.0,2024-10-30,23,no,"Reports screen
 Faster payouts"
 Google Play,2.107.0,2024-11-23,17,no,"Fix crash when adding photos
-New invoice templates"
-Google Play,2.109.0,2025-02-21,16,no,Offline mode improvements
+New booking page themes"
+Google Play,2.109.0,2025-02-21,16,no,Offline calendar improvements
 Google Play,2.111.0,2025-04-17,10,no,Tap to pay
 Google Play,2.113.0,2025-06-02,28,no,"New home screen
-Offline mode improvements
+Offline calendar improvements
 Fix crash when adding photos"
 Google Play,2.114.0,2025-06-19,23,no,Fix crash when adding photos
-Google Play,2.115.0,2025-07-17,25,no,"Bulk printing
+Google Play,2.115.0,2025-07-17,25,no,"Group classes
 Reports screen
-Recurring invoices
+Recurring appointments
 Fix sync between phone and web"
-Google Play,2.116.0,2025-08-02,27,no,"Tax rate settings
-New invoice templates
-Customer list search
+Google Play,2.116.0,2025-08-02,27,no,"Cancellation fee settings
+New booking page themes
+Client list search
 Faster payouts"
-Google Play,2.117.0,2025-09-02,15,no,"PDF layout fixes
+Google Play,2.117.0,2025-09-02,15,no,"Reminder text fixes
 Reports screen
-Bulk printing"
-Google Play,2.117.1,2025-09-24,2,yes,"PDF layout fixes
+Group classes"
+Google Play,2.117.1,2025-09-24,2,yes,"Reminder text fixes
 Faster payouts
 Fix crash when adding photos"
-Google Play,2.118.0,2025-10-26,4,no,"Bulk printing
-Recurring invoices
+Google Play,2.118.0,2025-10-26,4,no,"Group classes
+Recurring appointments
 Upgrade prompts"
 Google Play,2.119.0,2025-11-27,10,no,"Upgrade prompts
 New home screen"
-Google Play,2.120.0,2025-12-15,11,no,Tax rate settings
-Google Play,2.121.1,2026-01-16,2,yes,"New invoice templates
+Google Play,2.120.0,2025-12-15,11,no,Cancellation fee settings
+Google Play,2.121.1,2026-01-16,2,yes,"New booking page themes
 Subscription plans screen"
-Google Play,2.123.0,2026-03-01,25,no,Recurring invoices
+Google Play,2.123.0,2026-03-01,25,no,Recurring appointments
 Google Play,2.123.1,2026-03-26,3,yes,"Faster payouts
-Offline mode improvements
+Offline calendar improvements
 Fix sync between phone and web
-Card payments on invoices"
+Card payments at booking"
 Google Play,2.124.0,2026-04-23,15,no,"New home screen
 Fix password reset
 Upgrade prompts"
 Google Play,2.126.0,2026-06-19,14,no,"Fix sync between phone and web
-Customer list search"
+Client list search"
 Google Play,2.127.0,2026-07-15,16,no,"Subscription plans screen
-PDF layout fixes
+Reminder text fixes
 Tap to pay"
-Google Play,2.128.0,2026-08-07,23,no,"New invoice templates
-Offline mode improvements"
+Google Play,2.128.0,2026-08-07,23,no,"New booking page themes
+Offline calendar improvements"
 Google Play,2.129.0,2026-08-27,28,no,Fix sync between phone and web
 Google Play,2.130.0,2026-09-19,23,no,"Fix crash when adding photos
 Subscription plans screen
 Upgrade prompts
 New home screen"
-Google Play,2.131.0,2026-10-20,8,no,"Customer list search
+Google Play,2.131.0,2026-10-20,8,no,"Client list search
 Login with Google
 Fix sync between phone and web"
