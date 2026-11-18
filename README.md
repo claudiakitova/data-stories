@@ -9,6 +9,7 @@ Real-life questions answered with data, for learning and teaching data science. 
 | [game_player_value](business_analytics/game_player_value/) | How much will a new player of a mobile game bring in over 120 days, judging by their first week? | pandas, LightGBM |
 | [food_delivery](business_analytics/food_delivery/) | Do a few vendors dominate each market, what vendor segments exist, and why does a regression overstate what vouchers do? | scikit-learn (k-means), statsmodels |
 | [promo_forecast](business_analytics/promo_forecast/) | How many units will each store sell of a product on promotion? | pandas, LightGBM |
+| [car_prices](business_analytics/car_prices/) | What sets a car's price, and how closely can its specifications predict it? | scikit-learn, XGBoost |
 
 ## Crypto and finance
 
@@ -44,6 +45,7 @@ Real-life questions answered with data, for learning and teaching data science. 
 | Project | Question | Tools |
 |---|---|---|
 | [listening](music/listening/) | How do Moscow and St. Petersburg listen to music, and does a song's sound explain the popularity of top Caucasian songs? | pandas, scikit-learn (PCA, t-SNE), plotly |
+| [melody_generation](music/melody_generation/) | Can a small neural network continue a melody the way Bach wrote them? | TensorFlow / Keras (LSTM), music21 |
 
 ## Running
 
