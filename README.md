@@ -17,7 +17,10 @@ Study projects for learning and teaching data science: real-life questions answe
 | Project | Question | Tools |
 |---|---|---|
 | [bitcoin_forecast](crypto_and_finance/bitcoin_forecast/) | Can a neural network predict tomorrow's Bitcoin price better than "tomorrow equals today"? | TensorFlow / Keras (LSTM), statsmodels |
-| [fintech_app](crypto_and_finance/fintech_app/) (4 notebooks) | Where do new users of a crypto-finance app drop out, do they come back, where are its card users, and which crypto-backed loans get liquidated? | pandas, matplotlib |
+| [app_onboarding](crypto_and_finance/app_onboarding/) | Where do new users of a crypto-finance app drop out of the identity check, and who gets rejected? | pandas, matplotlib |
+| [app_usage](crypto_and_finance/app_usage/) | How many people use the app, do they come back, and which products earn money? | pandas, matplotlib |
+| [card_users](crypto_and_finance/card_users/) | Where are the app's card users, do their cards get used, and how concentrated is the money? | pandas, matplotlib |
+| [crypto_loans](crypto_and_finance/crypto_loans/) | Which crypto-backed loans get liquidated, and when? | pandas, matplotlib |
 
 ## Language and AI
 

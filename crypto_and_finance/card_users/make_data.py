@@ -1,7 +1,7 @@
 """Makes the synthetic card data for the card users notebook.
 
 Every card holder, card, and payment here is generated.
-Run: python make_cards.py  (writes cards.csv and card_payments.csv.gz)
+Run: python make_data.py  (writes cards.csv and card_payments.csv.gz)
 """
 import numpy as np
 import pandas as pd

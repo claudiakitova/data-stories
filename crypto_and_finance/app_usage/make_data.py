@@ -1,8 +1,9 @@
-"""Makes the synthetic data for the fintech app notebooks.
+"""Makes the synthetic data of a crypto-finance app for this notebook.
 
 Every user, transaction and loan here is made up. Only the Bitcoin prices are real (from ../bitcoin_forecast).
 
-Run: python make_data.py  (writes users.csv, transactions.csv.gz, loans.csv)
+The whole app (users, transactions, loans) is generated, and this folder keeps users.csv, transactions.csv.gz.
+Run: python make_data.py  (writes users.csv, transactions.csv.gz)
 """
 import numpy as np
 import pandas as pd
@@ -153,5 +154,4 @@ loans = pd.DataFrame(loan_rows, columns=["loan_id", "user_id", "issued", "amount
 
 users.drop(columns=["region"]).to_csv("users.csv", index=False)
 tx.to_csv("transactions.csv.gz", index=False)
-loans.sort_values("issued").to_csv("loans.csv", index=False)
 print(f"{len(users):,} users, {len(tx):,} transactions, {len(loans):,} loans")
