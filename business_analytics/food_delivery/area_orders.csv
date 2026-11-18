@@ -1,0 +1,1807 @@
+month,area,vendor,successful_orders
+2024-02-01,Madinat Hamad Hamad Town,Grill House,420
+2024-03-01,Madinat Hamad Hamad Town,Grill House,470
+2024-04-01,Madinat Hamad Hamad Town,Grill House,528
+2024-05-01,Madinat Hamad Hamad Town,Grill House,468
+2024-06-01,Madinat Hamad Hamad Town,Grill House,509
+2024-07-01,Madinat Hamad Hamad Town,Grill House,417
+2024-02-01,Madinat Hamad Hamad Town,Burger Bay,377
+2024-03-01,Madinat Hamad Hamad Town,Burger Bay,414
+2024-04-01,Madinat Hamad Hamad Town,Burger Bay,374
+2024-05-01,Madinat Hamad Hamad Town,Burger Bay,323
+2024-06-01,Madinat Hamad Hamad Town,Burger Bay,353
+2024-07-01,Madinat Hamad Hamad Town,Burger Bay,276
+2024-02-01,Madinat Hamad Hamad Town,Shawarma Corner,307
+2024-03-01,Madinat Hamad Hamad Town,Shawarma Corner,419
+2024-04-01,Madinat Hamad Hamad Town,Shawarma Corner,365
+2024-05-01,Madinat Hamad Hamad Town,Shawarma Corner,391
+2024-06-01,Madinat Hamad Hamad Town,Shawarma Corner,413
+2024-07-01,Madinat Hamad Hamad Town,Shawarma Corner,365
+2024-02-01,Madinat Hamad Hamad Town,Pizza Point,243
+2024-03-01,Madinat Hamad Hamad Town,Pizza Point,309
+2024-04-01,Madinat Hamad Hamad Town,Pizza Point,285
+2024-05-01,Madinat Hamad Hamad Town,Pizza Point,249
+2024-06-01,Madinat Hamad Hamad Town,Pizza Point,283
+2024-07-01,Madinat Hamad Hamad Town,Pizza Point,234
+2024-02-01,Madinat Hamad Hamad Town,Karak & Co,250
+2024-03-01,Madinat Hamad Hamad Town,Karak & Co,274
+2024-04-01,Madinat Hamad Hamad Town,Karak & Co,282
+2024-05-01,Madinat Hamad Hamad Town,Karak & Co,260
+2024-06-01,Madinat Hamad Hamad Town,Karak & Co,325
+2024-07-01,Madinat Hamad Hamad Town,Karak & Co,286
+2024-02-01,Madinat Hamad Hamad Town,Biryani Bowl,169
+2024-03-01,Madinat Hamad Hamad Town,Biryani Bowl,242
+2024-04-01,Madinat Hamad Hamad Town,Biryani Bowl,177
+2024-05-01,Madinat Hamad Hamad Town,Biryani Bowl,203
+2024-06-01,Madinat Hamad Hamad Town,Biryani Bowl,219
+2024-07-01,Madinat Hamad Hamad Town,Biryani Bowl,194
+2024-02-01,Madinat Hamad Hamad Town,Sushi Tide,125
+2024-03-01,Madinat Hamad Hamad Town,Sushi Tide,188
+2024-04-01,Madinat Hamad Hamad Town,Sushi Tide,156
+2024-05-01,Madinat Hamad Hamad Town,Sushi Tide,164
+2024-06-01,Madinat Hamad Hamad Town,Sushi Tide,185
+2024-07-01,Madinat Hamad Hamad Town,Sushi Tide,185
+2024-02-01,Madinat Hamad Hamad Town,Salad Studio,138
+2024-03-01,Madinat Hamad Hamad Town,Salad Studio,142
+2024-04-01,Madinat Hamad Hamad Town,Salad Studio,109
+2024-05-01,Madinat Hamad Hamad Town,Salad Studio,95
+2024-06-01,Madinat Hamad Hamad Town,Salad Studio,111
+2024-07-01,Madinat Hamad Hamad Town,Salad Studio,68
+2024-02-01,Madinat Hamad Hamad Town,Falafel Street,110
+2024-03-01,Madinat Hamad Hamad Town,Falafel Street,137
+2024-04-01,Madinat Hamad Hamad Town,Falafel Street,100
+2024-05-01,Madinat Hamad Hamad Town,Falafel Street,111
+2024-06-01,Madinat Hamad Hamad Town,Falafel Street,98
+2024-07-01,Madinat Hamad Hamad Town,Falafel Street,107
+2024-02-01,Madinat Hamad Hamad Town,Dessert Lab,86
+2024-03-01,Madinat Hamad Hamad Town,Dessert Lab,127
+2024-04-01,Madinat Hamad Hamad Town,Dessert Lab,94
+2024-05-01,Madinat Hamad Hamad Town,Dessert Lab,97
+2024-06-01,Madinat Hamad Hamad Town,Dessert Lab,115
+2024-07-01,Madinat Hamad Hamad Town,Dessert Lab,102
+2024-02-01,Madinat Hamad Hamad Town,Noodle Box,81
+2024-03-01,Madinat Hamad Hamad Town,Noodle Box,68
+2024-04-01,Madinat Hamad Hamad Town,Noodle Box,62
+2024-05-01,Madinat Hamad Hamad Town,Noodle Box,49
+2024-06-01,Madinat Hamad Hamad Town,Noodle Box,47
+2024-07-01,Madinat Hamad Hamad Town,Noodle Box,44
+2024-02-01,Alfateh,Grill House,28
+2024-03-01,Alfateh,Grill House,41
+2024-04-01,Alfateh,Grill House,35
+2024-05-01,Alfateh,Grill House,38
+2024-06-01,Alfateh,Grill House,38
+2024-07-01,Alfateh,Grill House,35
+2024-02-01,Alfateh,Burger Bay,26
+2024-03-01,Alfateh,Burger Bay,25
+2024-04-01,Alfateh,Burger Bay,30
+2024-05-01,Alfateh,Burger Bay,32
+2024-06-01,Alfateh,Burger Bay,33
+2024-07-01,Alfateh,Burger Bay,25
+2024-02-01,Alfateh,Shawarma Corner,27
+2024-03-01,Alfateh,Shawarma Corner,27
+2024-04-01,Alfateh,Shawarma Corner,25
+2024-05-01,Alfateh,Shawarma Corner,36
+2024-06-01,Alfateh,Shawarma Corner,21
+2024-07-01,Alfateh,Shawarma Corner,21
+2024-02-01,Alfateh,Pizza Point,20
+2024-03-01,Alfateh,Pizza Point,18
+2024-04-01,Alfateh,Pizza Point,31
+2024-05-01,Alfateh,Pizza Point,18
+2024-06-01,Alfateh,Pizza Point,20
+2024-07-01,Alfateh,Pizza Point,16
+2024-02-01,Alfateh,Karak & Co,13
+2024-03-01,Alfateh,Karak & Co,17
+2024-04-01,Alfateh,Karak & Co,22
+2024-05-01,Alfateh,Karak & Co,18
+2024-06-01,Alfateh,Karak & Co,22
+2024-07-01,Alfateh,Karak & Co,17
+2024-02-01,Alfateh,Biryani Bowl,14
+2024-03-01,Alfateh,Biryani Bowl,16
+2024-04-01,Alfateh,Biryani Bowl,15
+2024-05-01,Alfateh,Biryani Bowl,20
+2024-06-01,Alfateh,Biryani Bowl,17
+2024-07-01,Alfateh,Biryani Bowl,15
+2024-02-01,Alfateh,Sushi Tide,11
+2024-03-01,Alfateh,Sushi Tide,12
+2024-04-01,Alfateh,Sushi Tide,15
+2024-05-01,Alfateh,Sushi Tide,9
+2024-06-01,Alfateh,Sushi Tide,17
+2024-07-01,Alfateh,Sushi Tide,9
+2024-02-01,Alfateh,Salad Studio,6
+2024-03-01,Alfateh,Salad Studio,11
+2024-04-01,Alfateh,Salad Studio,7
+2024-05-01,Alfateh,Salad Studio,5
+2024-06-01,Alfateh,Salad Studio,9
+2024-07-01,Alfateh,Salad Studio,5
+2024-02-01,Alfateh,Falafel Street,6
+2024-03-01,Alfateh,Falafel Street,10
+2024-04-01,Alfateh,Falafel Street,10
+2024-05-01,Alfateh,Falafel Street,6
+2024-06-01,Alfateh,Falafel Street,9
+2024-07-01,Alfateh,Falafel Street,6
+2024-02-01,Alfateh,Dessert Lab,3
+2024-03-01,Alfateh,Dessert Lab,7
+2024-04-01,Alfateh,Dessert Lab,6
+2024-05-01,Alfateh,Dessert Lab,5
+2024-06-01,Alfateh,Dessert Lab,7
+2024-07-01,Alfateh,Dessert Lab,7
+2024-02-01,Alfateh,Noodle Box,5
+2024-03-01,Alfateh,Noodle Box,3
+2024-04-01,Alfateh,Noodle Box,6
+2024-05-01,Alfateh,Noodle Box,4
+2024-06-01,Alfateh,Noodle Box,5
+2024-07-01,Alfateh,Noodle Box,4
+2024-02-01,Tubli,Grill House,11
+2024-03-01,Tubli,Grill House,25
+2024-04-01,Tubli,Grill House,20
+2024-05-01,Tubli,Grill House,18
+2024-06-01,Tubli,Grill House,21
+2024-07-01,Tubli,Grill House,13
+2024-02-01,Tubli,Burger Bay,12
+2024-03-01,Tubli,Burger Bay,17
+2024-04-01,Tubli,Burger Bay,13
+2024-05-01,Tubli,Burger Bay,10
+2024-06-01,Tubli,Burger Bay,17
+2024-07-01,Tubli,Burger Bay,7
+2024-02-01,Tubli,Shawarma Corner,14
+2024-03-01,Tubli,Shawarma Corner,22
+2024-04-01,Tubli,Shawarma Corner,16
+2024-05-01,Tubli,Shawarma Corner,12
+2024-06-01,Tubli,Shawarma Corner,16
+2024-07-01,Tubli,Shawarma Corner,18
+2024-02-01,Tubli,Pizza Point,5
+2024-03-01,Tubli,Pizza Point,14
+2024-04-01,Tubli,Pizza Point,16
+2024-05-01,Tubli,Pizza Point,10
+2024-06-01,Tubli,Pizza Point,12
+2024-07-01,Tubli,Pizza Point,9
+2024-02-01,Tubli,Karak & Co,9
+2024-03-01,Tubli,Karak & Co,9
+2024-04-01,Tubli,Karak & Co,14
+2024-05-01,Tubli,Karak & Co,5
+2024-06-01,Tubli,Karak & Co,12
+2024-07-01,Tubli,Karak & Co,6
+2024-02-01,Tubli,Biryani Bowl,3
+2024-03-01,Tubli,Biryani Bowl,9
+2024-04-01,Tubli,Biryani Bowl,5
+2024-05-01,Tubli,Biryani Bowl,8
+2024-06-01,Tubli,Biryani Bowl,3
+2024-07-01,Tubli,Biryani Bowl,2
+2024-02-01,Tubli,Sushi Tide,4
+2024-03-01,Tubli,Sushi Tide,4
+2024-04-01,Tubli,Sushi Tide,3
+2024-05-01,Tubli,Sushi Tide,7
+2024-06-01,Tubli,Sushi Tide,15
+2024-07-01,Tubli,Sushi Tide,8
+2024-02-01,Tubli,Salad Studio,8
+2024-03-01,Tubli,Salad Studio,3
+2024-04-01,Tubli,Salad Studio,1
+2024-05-01,Tubli,Salad Studio,2
+2024-06-01,Tubli,Salad Studio,3
+2024-07-01,Tubli,Salad Studio,4
+2024-02-01,Tubli,Falafel Street,4
+2024-03-01,Tubli,Falafel Street,3
+2024-04-01,Tubli,Falafel Street,5
+2024-05-01,Tubli,Falafel Street,4
+2024-06-01,Tubli,Falafel Street,7
+2024-07-01,Tubli,Falafel Street,5
+2024-02-01,Tubli,Dessert Lab,5
+2024-03-01,Tubli,Dessert Lab,2
+2024-04-01,Tubli,Dessert Lab,3
+2024-05-01,Tubli,Dessert Lab,4
+2024-06-01,Tubli,Dessert Lab,3
+2024-07-01,Tubli,Dessert Lab,7
+2024-02-01,Tubli,Noodle Box,0
+2024-03-01,Tubli,Noodle Box,2
+2024-04-01,Tubli,Noodle Box,2
+2024-05-01,Tubli,Noodle Box,1
+2024-06-01,Tubli,Noodle Box,2
+2024-07-01,Tubli,Noodle Box,1
+2024-02-01,Isa Town,Grill House,12
+2024-03-01,Isa Town,Grill House,17
+2024-04-01,Isa Town,Grill House,18
+2024-05-01,Isa Town,Grill House,14
+2024-06-01,Isa Town,Grill House,13
+2024-07-01,Isa Town,Grill House,14
+2024-02-01,Isa Town,Burger Bay,10
+2024-03-01,Isa Town,Burger Bay,18
+2024-04-01,Isa Town,Burger Bay,12
+2024-05-01,Isa Town,Burger Bay,10
+2024-06-01,Isa Town,Burger Bay,5
+2024-07-01,Isa Town,Burger Bay,5
+2024-02-01,Isa Town,Shawarma Corner,9
+2024-03-01,Isa Town,Shawarma Corner,10
+2024-04-01,Isa Town,Shawarma Corner,8
+2024-05-01,Isa Town,Shawarma Corner,6
+2024-06-01,Isa Town,Shawarma Corner,16
+2024-07-01,Isa Town,Shawarma Corner,14
+2024-02-01,Isa Town,Pizza Point,8
+2024-03-01,Isa Town,Pizza Point,9
+2024-04-01,Isa Town,Pizza Point,7
+2024-05-01,Isa Town,Pizza Point,5
+2024-06-01,Isa Town,Pizza Point,3
+2024-07-01,Isa Town,Pizza Point,7
+2024-02-01,Isa Town,Karak & Co,2
+2024-03-01,Isa Town,Karak & Co,6
+2024-04-01,Isa Town,Karak & Co,7
+2024-05-01,Isa Town,Karak & Co,8
+2024-06-01,Isa Town,Karak & Co,9
+2024-07-01,Isa Town,Karak & Co,11
+2024-02-01,Isa Town,Biryani Bowl,3
+2024-03-01,Isa Town,Biryani Bowl,4
+2024-04-01,Isa Town,Biryani Bowl,6
+2024-05-01,Isa Town,Biryani Bowl,5
+2024-06-01,Isa Town,Biryani Bowl,2
+2024-07-01,Isa Town,Biryani Bowl,6
+2024-02-01,Isa Town,Salad Studio,3
+2024-03-01,Isa Town,Salad Studio,1
+2024-04-01,Isa Town,Salad Studio,2
+2024-05-01,Isa Town,Salad Studio,1
+2024-06-01,Isa Town,Salad Studio,2
+2024-07-01,Isa Town,Salad Studio,1
+2024-02-01,Isa Town,Falafel Street,5
+2024-03-01,Isa Town,Falafel Street,2
+2024-04-01,Isa Town,Falafel Street,0
+2024-05-01,Isa Town,Falafel Street,3
+2024-06-01,Isa Town,Falafel Street,3
+2024-07-01,Isa Town,Falafel Street,2
+2024-02-01,Isa Town,Dessert Lab,4
+2024-03-01,Isa Town,Dessert Lab,1
+2024-04-01,Isa Town,Dessert Lab,0
+2024-05-01,Isa Town,Dessert Lab,1
+2024-06-01,Isa Town,Dessert Lab,0
+2024-07-01,Isa Town,Dessert Lab,5
+2024-02-01,Isa Town,Noodle Box,2
+2024-03-01,Isa Town,Noodle Box,3
+2024-04-01,Isa Town,Noodle Box,4
+2024-05-01,Isa Town,Noodle Box,1
+2024-06-01,Isa Town,Noodle Box,0
+2024-07-01,Isa Town,Noodle Box,0
+2024-02-01,Muharraq,Grill House,9
+2024-03-01,Muharraq,Grill House,11
+2024-04-01,Muharraq,Grill House,15
+2024-05-01,Muharraq,Grill House,4
+2024-06-01,Muharraq,Grill House,10
+2024-07-01,Muharraq,Grill House,12
+2024-02-01,Muharraq,Burger Bay,3
+2024-03-01,Muharraq,Burger Bay,10
+2024-04-01,Muharraq,Burger Bay,6
+2024-05-01,Muharraq,Burger Bay,10
+2024-06-01,Muharraq,Burger Bay,2
+2024-07-01,Muharraq,Burger Bay,2
+2024-02-01,Muharraq,Shawarma Corner,5
+2024-03-01,Muharraq,Shawarma Corner,5
+2024-04-01,Muharraq,Shawarma Corner,14
+2024-05-01,Muharraq,Shawarma Corner,8
+2024-06-01,Muharraq,Shawarma Corner,9
+2024-07-01,Muharraq,Shawarma Corner,4
+2024-02-01,Muharraq,Pizza Point,1
+2024-03-01,Muharraq,Pizza Point,9
+2024-04-01,Muharraq,Pizza Point,4
+2024-05-01,Muharraq,Pizza Point,5
+2024-06-01,Muharraq,Pizza Point,5
+2024-07-01,Muharraq,Pizza Point,8
+2024-02-01,Muharraq,Biryani Bowl,4
+2024-03-01,Muharraq,Biryani Bowl,5
+2024-04-01,Muharraq,Biryani Bowl,3
+2024-05-01,Muharraq,Biryani Bowl,4
+2024-06-01,Muharraq,Biryani Bowl,1
+2024-07-01,Muharraq,Biryani Bowl,2
+2024-02-01,Muharraq,Sushi Tide,1
+2024-03-01,Muharraq,Sushi Tide,6
+2024-04-01,Muharraq,Sushi Tide,3
+2024-05-01,Muharraq,Sushi Tide,3
+2024-06-01,Muharraq,Sushi Tide,3
+2024-07-01,Muharraq,Sushi Tide,3
+2024-02-01,Muharraq,Salad Studio,0
+2024-03-01,Muharraq,Salad Studio,1
+2024-04-01,Muharraq,Salad Studio,1
+2024-05-01,Muharraq,Salad Studio,1
+2024-06-01,Muharraq,Salad Studio,3
+2024-07-01,Muharraq,Salad Studio,3
+2024-02-01,Muharraq,Falafel Street,1
+2024-03-01,Muharraq,Falafel Street,2
+2024-04-01,Muharraq,Falafel Street,1
+2024-05-01,Muharraq,Falafel Street,1
+2024-06-01,Muharraq,Falafel Street,1
+2024-07-01,Muharraq,Falafel Street,0
+2024-02-01,Muharraq,Dessert Lab,3
+2024-03-01,Muharraq,Dessert Lab,2
+2024-04-01,Muharraq,Dessert Lab,3
+2024-05-01,Muharraq,Dessert Lab,3
+2024-06-01,Muharraq,Dessert Lab,1
+2024-07-01,Muharraq,Dessert Lab,2
+2024-02-01,Muharraq,Noodle Box,1
+2024-03-01,Muharraq,Noodle Box,7
+2024-04-01,Muharraq,Noodle Box,0
+2024-05-01,Muharraq,Noodle Box,3
+2024-06-01,Muharraq,Noodle Box,3
+2024-07-01,Muharraq,Noodle Box,0
+2024-02-01,Manama Center,Grill House,8
+2024-03-01,Manama Center,Grill House,14
+2024-04-01,Manama Center,Grill House,7
+2024-05-01,Manama Center,Grill House,9
+2024-06-01,Manama Center,Grill House,12
+2024-07-01,Manama Center,Grill House,7
+2024-02-01,Manama Center,Burger Bay,3
+2024-03-01,Manama Center,Burger Bay,5
+2024-04-01,Manama Center,Burger Bay,10
+2024-05-01,Manama Center,Burger Bay,5
+2024-06-01,Manama Center,Burger Bay,7
+2024-07-01,Manama Center,Burger Bay,5
+2024-02-01,Manama Center,Shawarma Corner,10
+2024-03-01,Manama Center,Shawarma Corner,4
+2024-04-01,Manama Center,Shawarma Corner,6
+2024-05-01,Manama Center,Shawarma Corner,5
+2024-06-01,Manama Center,Shawarma Corner,9
+2024-07-01,Manama Center,Shawarma Corner,9
+2024-02-01,Manama Center,Pizza Point,3
+2024-03-01,Manama Center,Pizza Point,3
+2024-04-01,Manama Center,Pizza Point,6
+2024-05-01,Manama Center,Pizza Point,4
+2024-06-01,Manama Center,Pizza Point,6
+2024-07-01,Manama Center,Pizza Point,4
+2024-02-01,Manama Center,Karak & Co,5
+2024-03-01,Manama Center,Karak & Co,5
+2024-04-01,Manama Center,Karak & Co,3
+2024-05-01,Manama Center,Karak & Co,7
+2024-06-01,Manama Center,Karak & Co,4
+2024-07-01,Manama Center,Karak & Co,3
+2024-02-01,Manama Center,Biryani Bowl,9
+2024-03-01,Manama Center,Biryani Bowl,5
+2024-04-01,Manama Center,Biryani Bowl,2
+2024-05-01,Manama Center,Biryani Bowl,3
+2024-06-01,Manama Center,Biryani Bowl,1
+2024-07-01,Manama Center,Biryani Bowl,1
+2024-02-01,Manama Center,Sushi Tide,4
+2024-03-01,Manama Center,Sushi Tide,3
+2024-04-01,Manama Center,Sushi Tide,6
+2024-05-01,Manama Center,Sushi Tide,3
+2024-06-01,Manama Center,Sushi Tide,3
+2024-07-01,Manama Center,Sushi Tide,2
+2024-02-01,Manama Center,Salad Studio,1
+2024-03-01,Manama Center,Salad Studio,4
+2024-04-01,Manama Center,Salad Studio,5
+2024-05-01,Manama Center,Salad Studio,2
+2024-06-01,Manama Center,Salad Studio,1
+2024-07-01,Manama Center,Salad Studio,1
+2024-02-01,Manama Center,Falafel Street,1
+2024-03-01,Manama Center,Falafel Street,2
+2024-04-01,Manama Center,Falafel Street,1
+2024-05-01,Manama Center,Falafel Street,3
+2024-06-01,Manama Center,Falafel Street,2
+2024-07-01,Manama Center,Falafel Street,2
+2024-02-01,Manama Center,Dessert Lab,2
+2024-03-01,Manama Center,Dessert Lab,0
+2024-04-01,Manama Center,Dessert Lab,2
+2024-05-01,Manama Center,Dessert Lab,0
+2024-06-01,Manama Center,Dessert Lab,6
+2024-07-01,Manama Center,Dessert Lab,3
+2024-02-01,Manama Center,Noodle Box,0
+2024-03-01,Manama Center,Noodle Box,0
+2024-04-01,Manama Center,Noodle Box,0
+2024-05-01,Manama Center,Noodle Box,0
+2024-06-01,Manama Center,Noodle Box,2
+2024-07-01,Manama Center,Noodle Box,3
+2024-02-01,Riffa Alshamali North Riffa,Grill House,2
+2024-03-01,Riffa Alshamali North Riffa,Grill House,9
+2024-04-01,Riffa Alshamali North Riffa,Grill House,6
+2024-05-01,Riffa Alshamali North Riffa,Grill House,7
+2024-06-01,Riffa Alshamali North Riffa,Grill House,8
+2024-07-01,Riffa Alshamali North Riffa,Grill House,4
+2024-02-01,Riffa Alshamali North Riffa,Burger Bay,5
+2024-03-01,Riffa Alshamali North Riffa,Burger Bay,5
+2024-04-01,Riffa Alshamali North Riffa,Burger Bay,5
+2024-05-01,Riffa Alshamali North Riffa,Burger Bay,7
+2024-06-01,Riffa Alshamali North Riffa,Burger Bay,7
+2024-07-01,Riffa Alshamali North Riffa,Burger Bay,4
+2024-02-01,Riffa Alshamali North Riffa,Shawarma Corner,7
+2024-03-01,Riffa Alshamali North Riffa,Shawarma Corner,6
+2024-04-01,Riffa Alshamali North Riffa,Shawarma Corner,5
+2024-05-01,Riffa Alshamali North Riffa,Shawarma Corner,3
+2024-06-01,Riffa Alshamali North Riffa,Shawarma Corner,2
+2024-07-01,Riffa Alshamali North Riffa,Shawarma Corner,6
+2024-02-01,Riffa Alshamali North Riffa,Pizza Point,4
+2024-03-01,Riffa Alshamali North Riffa,Pizza Point,6
+2024-04-01,Riffa Alshamali North Riffa,Pizza Point,7
+2024-05-01,Riffa Alshamali North Riffa,Pizza Point,4
+2024-06-01,Riffa Alshamali North Riffa,Pizza Point,3
+2024-07-01,Riffa Alshamali North Riffa,Pizza Point,4
+2024-02-01,Riffa Alshamali North Riffa,Karak & Co,4
+2024-03-01,Riffa Alshamali North Riffa,Karak & Co,4
+2024-04-01,Riffa Alshamali North Riffa,Karak & Co,6
+2024-05-01,Riffa Alshamali North Riffa,Karak & Co,7
+2024-06-01,Riffa Alshamali North Riffa,Karak & Co,9
+2024-07-01,Riffa Alshamali North Riffa,Karak & Co,5
+2024-02-01,Riffa Alshamali North Riffa,Biryani Bowl,2
+2024-03-01,Riffa Alshamali North Riffa,Biryani Bowl,7
+2024-04-01,Riffa Alshamali North Riffa,Biryani Bowl,5
+2024-05-01,Riffa Alshamali North Riffa,Biryani Bowl,3
+2024-06-01,Riffa Alshamali North Riffa,Biryani Bowl,5
+2024-07-01,Riffa Alshamali North Riffa,Biryani Bowl,5
+2024-02-01,Riffa Alshamali North Riffa,Sushi Tide,3
+2024-03-01,Riffa Alshamali North Riffa,Sushi Tide,2
+2024-04-01,Riffa Alshamali North Riffa,Sushi Tide,5
+2024-05-01,Riffa Alshamali North Riffa,Sushi Tide,0
+2024-06-01,Riffa Alshamali North Riffa,Sushi Tide,2
+2024-07-01,Riffa Alshamali North Riffa,Sushi Tide,1
+2024-02-01,Riffa Alshamali North Riffa,Salad Studio,2
+2024-03-01,Riffa Alshamali North Riffa,Salad Studio,2
+2024-04-01,Riffa Alshamali North Riffa,Salad Studio,4
+2024-05-01,Riffa Alshamali North Riffa,Salad Studio,1
+2024-06-01,Riffa Alshamali North Riffa,Salad Studio,3
+2024-07-01,Riffa Alshamali North Riffa,Salad Studio,1
+2024-02-01,Riffa Alshamali North Riffa,Falafel Street,1
+2024-03-01,Riffa Alshamali North Riffa,Falafel Street,2
+2024-04-01,Riffa Alshamali North Riffa,Falafel Street,3
+2024-05-01,Riffa Alshamali North Riffa,Falafel Street,0
+2024-06-01,Riffa Alshamali North Riffa,Falafel Street,3
+2024-07-01,Riffa Alshamali North Riffa,Falafel Street,1
+2024-02-01,Riffa Alshamali North Riffa,Dessert Lab,1
+2024-03-01,Riffa Alshamali North Riffa,Dessert Lab,2
+2024-04-01,Riffa Alshamali North Riffa,Dessert Lab,1
+2024-05-01,Riffa Alshamali North Riffa,Dessert Lab,1
+2024-06-01,Riffa Alshamali North Riffa,Dessert Lab,2
+2024-07-01,Riffa Alshamali North Riffa,Dessert Lab,0
+2024-02-01,Riffa Alshamali North Riffa,Noodle Box,1
+2024-03-01,Riffa Alshamali North Riffa,Noodle Box,2
+2024-04-01,Riffa Alshamali North Riffa,Noodle Box,1
+2024-05-01,Riffa Alshamali North Riffa,Noodle Box,0
+2024-06-01,Riffa Alshamali North Riffa,Noodle Box,1
+2024-07-01,Riffa Alshamali North Riffa,Noodle Box,0
+2024-02-01,West Riffa,Grill House,5
+2024-03-01,West Riffa,Grill House,6
+2024-04-01,West Riffa,Grill House,6
+2024-05-01,West Riffa,Grill House,4
+2024-06-01,West Riffa,Grill House,6
+2024-07-01,West Riffa,Grill House,5
+2024-02-01,West Riffa,Burger Bay,2
+2024-03-01,West Riffa,Burger Bay,3
+2024-04-01,West Riffa,Burger Bay,3
+2024-05-01,West Riffa,Burger Bay,5
+2024-06-01,West Riffa,Burger Bay,2
+2024-07-01,West Riffa,Burger Bay,0
+2024-02-01,West Riffa,Shawarma Corner,1
+2024-03-01,West Riffa,Shawarma Corner,4
+2024-04-01,West Riffa,Shawarma Corner,7
+2024-05-01,West Riffa,Shawarma Corner,3
+2024-06-01,West Riffa,Shawarma Corner,7
+2024-07-01,West Riffa,Shawarma Corner,4
+2024-02-01,West Riffa,Pizza Point,1
+2024-03-01,West Riffa,Pizza Point,4
+2024-04-01,West Riffa,Pizza Point,2
+2024-05-01,West Riffa,Pizza Point,2
+2024-06-01,West Riffa,Pizza Point,0
+2024-07-01,West Riffa,Pizza Point,1
+2024-02-01,West Riffa,Karak & Co,3
+2024-03-01,West Riffa,Karak & Co,0
+2024-04-01,West Riffa,Karak & Co,4
+2024-05-01,West Riffa,Karak & Co,2
+2024-06-01,West Riffa,Karak & Co,2
+2024-07-01,West Riffa,Karak & Co,4
+2024-02-01,West Riffa,Biryani Bowl,2
+2024-03-01,West Riffa,Biryani Bowl,2
+2024-04-01,West Riffa,Biryani Bowl,1
+2024-05-01,West Riffa,Biryani Bowl,3
+2024-06-01,West Riffa,Biryani Bowl,1
+2024-07-01,West Riffa,Biryani Bowl,1
+2024-02-01,West Riffa,Sushi Tide,3
+2024-03-01,West Riffa,Sushi Tide,5
+2024-04-01,West Riffa,Sushi Tide,1
+2024-05-01,West Riffa,Sushi Tide,2
+2024-06-01,West Riffa,Sushi Tide,4
+2024-07-01,West Riffa,Sushi Tide,2
+2024-02-01,West Riffa,Salad Studio,0
+2024-03-01,West Riffa,Salad Studio,1
+2024-04-01,West Riffa,Salad Studio,0
+2024-05-01,West Riffa,Salad Studio,1
+2024-06-01,West Riffa,Salad Studio,1
+2024-07-01,West Riffa,Salad Studio,0
+2024-02-01,West Riffa,Falafel Street,2
+2024-03-01,West Riffa,Falafel Street,0
+2024-04-01,West Riffa,Falafel Street,1
+2024-05-01,West Riffa,Falafel Street,1
+2024-06-01,West Riffa,Falafel Street,1
+2024-07-01,West Riffa,Falafel Street,1
+2024-02-01,West Riffa,Dessert Lab,4
+2024-03-01,West Riffa,Dessert Lab,0
+2024-04-01,West Riffa,Dessert Lab,5
+2024-05-01,West Riffa,Dessert Lab,0
+2024-06-01,West Riffa,Dessert Lab,1
+2024-07-01,West Riffa,Dessert Lab,3
+2024-02-01,West Riffa,Noodle Box,2
+2024-03-01,West Riffa,Noodle Box,0
+2024-04-01,West Riffa,Noodle Box,0
+2024-05-01,West Riffa,Noodle Box,0
+2024-06-01,West Riffa,Noodle Box,1
+2024-07-01,West Riffa,Noodle Box,0
+2024-02-01,Saar,Grill House,4
+2024-03-01,Saar,Grill House,5
+2024-04-01,Saar,Grill House,3
+2024-05-01,Saar,Grill House,3
+2024-06-01,Saar,Grill House,3
+2024-07-01,Saar,Grill House,8
+2024-02-01,Saar,Burger Bay,7
+2024-03-01,Saar,Burger Bay,5
+2024-04-01,Saar,Burger Bay,3
+2024-05-01,Saar,Burger Bay,3
+2024-06-01,Saar,Burger Bay,4
+2024-07-01,Saar,Burger Bay,2
+2024-02-01,Saar,Shawarma Corner,1
+2024-03-01,Saar,Shawarma Corner,3
+2024-04-01,Saar,Shawarma Corner,7
+2024-05-01,Saar,Shawarma Corner,4
+2024-06-01,Saar,Shawarma Corner,6
+2024-07-01,Saar,Shawarma Corner,2
+2024-02-01,Saar,Pizza Point,4
+2024-03-01,Saar,Pizza Point,5
+2024-04-01,Saar,Pizza Point,0
+2024-05-01,Saar,Pizza Point,2
+2024-06-01,Saar,Pizza Point,2
+2024-07-01,Saar,Pizza Point,1
+2024-02-01,Saar,Karak & Co,1
+2024-03-01,Saar,Karak & Co,0
+2024-04-01,Saar,Karak & Co,1
+2024-05-01,Saar,Karak & Co,2
+2024-06-01,Saar,Karak & Co,3
+2024-07-01,Saar,Karak & Co,3
+2024-02-01,Saar,Biryani Bowl,0
+2024-03-01,Saar,Biryani Bowl,2
+2024-04-01,Saar,Biryani Bowl,0
+2024-05-01,Saar,Biryani Bowl,1
+2024-06-01,Saar,Biryani Bowl,0
+2024-07-01,Saar,Biryani Bowl,1
+2024-02-01,Saar,Sushi Tide,0
+2024-03-01,Saar,Sushi Tide,4
+2024-04-01,Saar,Sushi Tide,4
+2024-05-01,Saar,Sushi Tide,3
+2024-06-01,Saar,Sushi Tide,2
+2024-07-01,Saar,Sushi Tide,2
+2024-02-01,Saar,Salad Studio,1
+2024-03-01,Saar,Salad Studio,1
+2024-04-01,Saar,Salad Studio,1
+2024-05-01,Saar,Salad Studio,2
+2024-06-01,Saar,Salad Studio,0
+2024-07-01,Saar,Salad Studio,1
+2024-02-01,Saar,Falafel Street,3
+2024-03-01,Saar,Falafel Street,1
+2024-04-01,Saar,Falafel Street,1
+2024-05-01,Saar,Falafel Street,1
+2024-06-01,Saar,Falafel Street,3
+2024-07-01,Saar,Falafel Street,1
+2024-02-01,Saar,Dessert Lab,1
+2024-03-01,Saar,Dessert Lab,1
+2024-04-01,Saar,Dessert Lab,0
+2024-05-01,Saar,Dessert Lab,1
+2024-06-01,Saar,Dessert Lab,1
+2024-07-01,Saar,Dessert Lab,1
+2024-02-01,Saar,Noodle Box,3
+2024-03-01,Saar,Noodle Box,2
+2024-04-01,Saar,Noodle Box,2
+2024-05-01,Saar,Noodle Box,1
+2024-06-01,Saar,Noodle Box,1
+2024-07-01,Saar,Noodle Box,1
+2024-02-01,Juffair,Grill House,2
+2024-03-01,Juffair,Grill House,4
+2024-04-01,Juffair,Grill House,2
+2024-05-01,Juffair,Grill House,5
+2024-06-01,Juffair,Grill House,3
+2024-07-01,Juffair,Grill House,7
+2024-02-01,Juffair,Burger Bay,1
+2024-03-01,Juffair,Burger Bay,3
+2024-04-01,Juffair,Burger Bay,3
+2024-05-01,Juffair,Burger Bay,5
+2024-06-01,Juffair,Burger Bay,4
+2024-07-01,Juffair,Burger Bay,5
+2024-02-01,Juffair,Shawarma Corner,4
+2024-03-01,Juffair,Shawarma Corner,5
+2024-04-01,Juffair,Shawarma Corner,6
+2024-05-01,Juffair,Shawarma Corner,3
+2024-06-01,Juffair,Shawarma Corner,5
+2024-07-01,Juffair,Shawarma Corner,3
+2024-02-01,Juffair,Pizza Point,2
+2024-03-01,Juffair,Pizza Point,4
+2024-04-01,Juffair,Pizza Point,2
+2024-05-01,Juffair,Pizza Point,0
+2024-06-01,Juffair,Pizza Point,2
+2024-07-01,Juffair,Pizza Point,4
+2024-02-01,Juffair,Karak & Co,2
+2024-03-01,Juffair,Karak & Co,2
+2024-04-01,Juffair,Karak & Co,3
+2024-05-01,Juffair,Karak & Co,3
+2024-06-01,Juffair,Karak & Co,3
+2024-07-01,Juffair,Karak & Co,5
+2024-02-01,Juffair,Biryani Bowl,3
+2024-03-01,Juffair,Biryani Bowl,2
+2024-04-01,Juffair,Biryani Bowl,2
+2024-05-01,Juffair,Biryani Bowl,2
+2024-06-01,Juffair,Biryani Bowl,1
+2024-07-01,Juffair,Biryani Bowl,5
+2024-02-01,Juffair,Sushi Tide,1
+2024-03-01,Juffair,Sushi Tide,0
+2024-04-01,Juffair,Sushi Tide,0
+2024-05-01,Juffair,Sushi Tide,1
+2024-06-01,Juffair,Sushi Tide,1
+2024-07-01,Juffair,Sushi Tide,2
+2024-02-01,Juffair,Salad Studio,1
+2024-03-01,Juffair,Salad Studio,2
+2024-04-01,Juffair,Salad Studio,2
+2024-05-01,Juffair,Salad Studio,1
+2024-06-01,Juffair,Salad Studio,1
+2024-07-01,Juffair,Salad Studio,2
+2024-02-01,Juffair,Falafel Street,2
+2024-03-01,Juffair,Falafel Street,1
+2024-04-01,Juffair,Falafel Street,0
+2024-05-01,Juffair,Falafel Street,1
+2024-06-01,Juffair,Falafel Street,0
+2024-07-01,Juffair,Falafel Street,2
+2024-02-01,Juffair,Dessert Lab,0
+2024-03-01,Juffair,Dessert Lab,3
+2024-04-01,Juffair,Dessert Lab,0
+2024-05-01,Juffair,Dessert Lab,2
+2024-06-01,Juffair,Dessert Lab,1
+2024-07-01,Juffair,Dessert Lab,0
+2024-02-01,Juffair,Noodle Box,0
+2024-03-01,Juffair,Noodle Box,0
+2024-04-01,Juffair,Noodle Box,2
+2024-05-01,Juffair,Noodle Box,0
+2024-06-01,Juffair,Noodle Box,0
+2024-07-01,Juffair,Noodle Box,0
+2024-02-01,Seef,Grill House,4
+2024-03-01,Seef,Grill House,0
+2024-04-01,Seef,Grill House,8
+2024-05-01,Seef,Grill House,5
+2024-06-01,Seef,Grill House,2
+2024-07-01,Seef,Grill House,4
+2024-02-01,Seef,Burger Bay,1
+2024-03-01,Seef,Burger Bay,2
+2024-04-01,Seef,Burger Bay,4
+2024-05-01,Seef,Burger Bay,0
+2024-06-01,Seef,Burger Bay,1
+2024-07-01,Seef,Burger Bay,1
+2024-02-01,Seef,Shawarma Corner,2
+2024-03-01,Seef,Shawarma Corner,2
+2024-04-01,Seef,Shawarma Corner,1
+2024-05-01,Seef,Shawarma Corner,3
+2024-06-01,Seef,Shawarma Corner,2
+2024-07-01,Seef,Shawarma Corner,1
+2024-02-01,Seef,Pizza Point,2
+2024-03-01,Seef,Pizza Point,4
+2024-04-01,Seef,Pizza Point,0
+2024-05-01,Seef,Pizza Point,1
+2024-06-01,Seef,Pizza Point,2
+2024-07-01,Seef,Pizza Point,1
+2024-02-01,Seef,Karak & Co,1
+2024-03-01,Seef,Karak & Co,3
+2024-04-01,Seef,Karak & Co,0
+2024-05-01,Seef,Karak & Co,2
+2024-06-01,Seef,Karak & Co,0
+2024-07-01,Seef,Karak & Co,1
+2024-02-01,Seef,Biryani Bowl,2
+2024-03-01,Seef,Biryani Bowl,1
+2024-04-01,Seef,Biryani Bowl,3
+2024-05-01,Seef,Biryani Bowl,2
+2024-06-01,Seef,Biryani Bowl,1
+2024-07-01,Seef,Biryani Bowl,0
+2024-02-01,Seef,Salad Studio,2
+2024-03-01,Seef,Salad Studio,0
+2024-04-01,Seef,Salad Studio,1
+2024-05-01,Seef,Salad Studio,2
+2024-06-01,Seef,Salad Studio,0
+2024-07-01,Seef,Salad Studio,0
+2024-02-01,Seef,Dessert Lab,0
+2024-03-01,Seef,Dessert Lab,2
+2024-04-01,Seef,Dessert Lab,0
+2024-05-01,Seef,Dessert Lab,1
+2024-06-01,Seef,Dessert Lab,0
+2024-07-01,Seef,Dessert Lab,2
+2024-02-01,Seef,Noodle Box,1
+2024-03-01,Seef,Noodle Box,0
+2024-04-01,Seef,Noodle Box,1
+2024-05-01,Seef,Noodle Box,0
+2024-06-01,Seef,Noodle Box,0
+2024-07-01,Seef,Noodle Box,0
+2024-02-01,Sanabis,Shawarma Corner,2
+2024-03-01,Sanabis,Shawarma Corner,4
+2024-04-01,Sanabis,Shawarma Corner,2
+2024-05-01,Sanabis,Shawarma Corner,0
+2024-06-01,Sanabis,Shawarma Corner,2
+2024-07-01,Sanabis,Shawarma Corner,2
+2024-02-01,Sanabis,Pizza Point,1
+2024-03-01,Sanabis,Pizza Point,1
+2024-04-01,Sanabis,Pizza Point,3
+2024-05-01,Sanabis,Pizza Point,2
+2024-06-01,Sanabis,Pizza Point,3
+2024-07-01,Sanabis,Pizza Point,2
+2024-02-01,Sanabis,Karak & Co,1
+2024-03-01,Sanabis,Karak & Co,1
+2024-04-01,Sanabis,Karak & Co,1
+2024-05-01,Sanabis,Karak & Co,1
+2024-06-01,Sanabis,Karak & Co,1
+2024-07-01,Sanabis,Karak & Co,0
+2024-02-01,Sanabis,Biryani Bowl,1
+2024-03-01,Sanabis,Biryani Bowl,1
+2024-04-01,Sanabis,Biryani Bowl,1
+2024-05-01,Sanabis,Biryani Bowl,0
+2024-06-01,Sanabis,Biryani Bowl,0
+2024-07-01,Sanabis,Biryani Bowl,0
+2024-02-01,Sanabis,Salad Studio,1
+2024-03-01,Sanabis,Salad Studio,0
+2024-04-01,Sanabis,Salad Studio,2
+2024-05-01,Sanabis,Salad Studio,1
+2024-06-01,Sanabis,Salad Studio,1
+2024-07-01,Sanabis,Salad Studio,0
+2024-02-01,Sanabis,Dessert Lab,1
+2024-03-01,Sanabis,Dessert Lab,0
+2024-04-01,Sanabis,Dessert Lab,2
+2024-05-01,Sanabis,Dessert Lab,0
+2024-06-01,Sanabis,Dessert Lab,0
+2024-07-01,Sanabis,Dessert Lab,1
+2024-02-01,Hidd,Grill House,5
+2024-03-01,Hidd,Grill House,3
+2024-04-01,Hidd,Grill House,1
+2024-05-01,Hidd,Grill House,3
+2024-06-01,Hidd,Grill House,2
+2024-07-01,Hidd,Grill House,3
+2024-02-01,Hidd,Burger Bay,2
+2024-03-01,Hidd,Burger Bay,0
+2024-04-01,Hidd,Burger Bay,1
+2024-05-01,Hidd,Burger Bay,1
+2024-06-01,Hidd,Burger Bay,2
+2024-07-01,Hidd,Burger Bay,4
+2024-02-01,Hidd,Shawarma Corner,2
+2024-03-01,Hidd,Shawarma Corner,1
+2024-04-01,Hidd,Shawarma Corner,3
+2024-05-01,Hidd,Shawarma Corner,2
+2024-06-01,Hidd,Shawarma Corner,2
+2024-07-01,Hidd,Shawarma Corner,1
+2024-02-01,Hidd,Karak & Co,2
+2024-03-01,Hidd,Karak & Co,0
+2024-04-01,Hidd,Karak & Co,0
+2024-05-01,Hidd,Karak & Co,0
+2024-06-01,Hidd,Karak & Co,1
+2024-07-01,Hidd,Karak & Co,0
+2024-02-01,Hidd,Biryani Bowl,1
+2024-03-01,Hidd,Biryani Bowl,1
+2024-04-01,Hidd,Biryani Bowl,1
+2024-05-01,Hidd,Biryani Bowl,2
+2024-06-01,Hidd,Biryani Bowl,1
+2024-07-01,Hidd,Biryani Bowl,0
+2024-02-01,Hidd,Sushi Tide,2
+2024-03-01,Hidd,Sushi Tide,4
+2024-04-01,Hidd,Sushi Tide,3
+2024-05-01,Hidd,Sushi Tide,0
+2024-06-01,Hidd,Sushi Tide,1
+2024-07-01,Hidd,Sushi Tide,3
+2024-02-01,Hidd,Noodle Box,1
+2024-03-01,Hidd,Noodle Box,1
+2024-04-01,Hidd,Noodle Box,1
+2024-05-01,Hidd,Noodle Box,1
+2024-06-01,Hidd,Noodle Box,0
+2024-07-01,Hidd,Noodle Box,0
+2024-02-01,Arad,Grill House,3
+2024-03-01,Arad,Grill House,2
+2024-04-01,Arad,Grill House,0
+2024-05-01,Arad,Grill House,3
+2024-06-01,Arad,Grill House,2
+2024-07-01,Arad,Grill House,1
+2024-02-01,Arad,Pizza Point,2
+2024-03-01,Arad,Pizza Point,2
+2024-04-01,Arad,Pizza Point,1
+2024-05-01,Arad,Pizza Point,0
+2024-06-01,Arad,Pizza Point,0
+2024-07-01,Arad,Pizza Point,0
+2024-02-01,Arad,Karak & Co,0
+2024-03-01,Arad,Karak & Co,3
+2024-04-01,Arad,Karak & Co,2
+2024-05-01,Arad,Karak & Co,0
+2024-06-01,Arad,Karak & Co,0
+2024-07-01,Arad,Karak & Co,1
+2024-02-01,Arad,Biryani Bowl,1
+2024-03-01,Arad,Biryani Bowl,1
+2024-04-01,Arad,Biryani Bowl,1
+2024-05-01,Arad,Biryani Bowl,2
+2024-06-01,Arad,Biryani Bowl,0
+2024-07-01,Arad,Biryani Bowl,1
+2024-02-01,Arad,Sushi Tide,1
+2024-03-01,Arad,Sushi Tide,0
+2024-04-01,Arad,Sushi Tide,2
+2024-05-01,Arad,Sushi Tide,0
+2024-06-01,Arad,Sushi Tide,0
+2024-07-01,Arad,Sushi Tide,1
+2024-02-01,Arad,Salad Studio,0
+2024-03-01,Arad,Salad Studio,0
+2024-04-01,Arad,Salad Studio,1
+2024-05-01,Arad,Salad Studio,1
+2024-06-01,Arad,Salad Studio,0
+2024-07-01,Arad,Salad Studio,0
+2024-02-01,Arad,Falafel Street,1
+2024-03-01,Arad,Falafel Street,1
+2024-04-01,Arad,Falafel Street,0
+2024-05-01,Arad,Falafel Street,1
+2024-06-01,Arad,Falafel Street,1
+2024-07-01,Arad,Falafel Street,0
+2024-02-01,Arad,Dessert Lab,0
+2024-03-01,Arad,Dessert Lab,0
+2024-04-01,Arad,Dessert Lab,0
+2024-05-01,Arad,Dessert Lab,0
+2024-06-01,Arad,Dessert Lab,0
+2024-07-01,Arad,Dessert Lab,0
+2024-02-01,Arad,Noodle Box,1
+2024-03-01,Arad,Noodle Box,0
+2024-04-01,Arad,Noodle Box,0
+2024-05-01,Arad,Noodle Box,0
+2024-06-01,Arad,Noodle Box,1
+2024-07-01,Arad,Noodle Box,0
+2024-02-01,Busaiteen,Grill House,5
+2024-03-01,Busaiteen,Grill House,4
+2024-04-01,Busaiteen,Grill House,0
+2024-05-01,Busaiteen,Grill House,0
+2024-06-01,Busaiteen,Grill House,4
+2024-07-01,Busaiteen,Grill House,0
+2024-02-01,Busaiteen,Burger Bay,3
+2024-03-01,Busaiteen,Burger Bay,3
+2024-04-01,Busaiteen,Burger Bay,1
+2024-05-01,Busaiteen,Burger Bay,2
+2024-06-01,Busaiteen,Burger Bay,0
+2024-07-01,Busaiteen,Burger Bay,1
+2024-02-01,Busaiteen,Shawarma Corner,2
+2024-03-01,Busaiteen,Shawarma Corner,4
+2024-04-01,Busaiteen,Shawarma Corner,1
+2024-05-01,Busaiteen,Shawarma Corner,0
+2024-06-01,Busaiteen,Shawarma Corner,0
+2024-07-01,Busaiteen,Shawarma Corner,2
+2024-02-01,Busaiteen,Pizza Point,0
+2024-03-01,Busaiteen,Pizza Point,3
+2024-04-01,Busaiteen,Pizza Point,1
+2024-05-01,Busaiteen,Pizza Point,2
+2024-06-01,Busaiteen,Pizza Point,2
+2024-07-01,Busaiteen,Pizza Point,0
+2024-02-01,Busaiteen,Karak & Co,1
+2024-03-01,Busaiteen,Karak & Co,2
+2024-04-01,Busaiteen,Karak & Co,1
+2024-05-01,Busaiteen,Karak & Co,1
+2024-06-01,Busaiteen,Karak & Co,0
+2024-07-01,Busaiteen,Karak & Co,0
+2024-02-01,Busaiteen,Biryani Bowl,0
+2024-03-01,Busaiteen,Biryani Bowl,0
+2024-04-01,Busaiteen,Biryani Bowl,1
+2024-05-01,Busaiteen,Biryani Bowl,1
+2024-06-01,Busaiteen,Biryani Bowl,1
+2024-07-01,Busaiteen,Biryani Bowl,2
+2024-02-01,Busaiteen,Salad Studio,0
+2024-03-01,Busaiteen,Salad Studio,1
+2024-04-01,Busaiteen,Salad Studio,1
+2024-05-01,Busaiteen,Salad Studio,1
+2024-06-01,Busaiteen,Salad Studio,0
+2024-07-01,Busaiteen,Salad Studio,0
+2024-02-01,Busaiteen,Falafel Street,1
+2024-03-01,Busaiteen,Falafel Street,0
+2024-04-01,Busaiteen,Falafel Street,1
+2024-05-01,Busaiteen,Falafel Street,1
+2024-06-01,Busaiteen,Falafel Street,0
+2024-07-01,Busaiteen,Falafel Street,1
+2024-02-01,Busaiteen,Dessert Lab,0
+2024-03-01,Busaiteen,Dessert Lab,1
+2024-04-01,Busaiteen,Dessert Lab,0
+2024-05-01,Busaiteen,Dessert Lab,1
+2024-06-01,Busaiteen,Dessert Lab,1
+2024-07-01,Busaiteen,Dessert Lab,0
+2024-02-01,Busaiteen,Noodle Box,0
+2024-03-01,Busaiteen,Noodle Box,1
+2024-04-01,Busaiteen,Noodle Box,1
+2024-05-01,Busaiteen,Noodle Box,0
+2024-06-01,Busaiteen,Noodle Box,1
+2024-07-01,Busaiteen,Noodle Box,0
+2024-02-01,Galaly,Grill House,0
+2024-03-01,Galaly,Grill House,2
+2024-04-01,Galaly,Grill House,3
+2024-05-01,Galaly,Grill House,1
+2024-06-01,Galaly,Grill House,1
+2024-07-01,Galaly,Grill House,0
+2024-02-01,Galaly,Shawarma Corner,2
+2024-03-01,Galaly,Shawarma Corner,3
+2024-04-01,Galaly,Shawarma Corner,2
+2024-05-01,Galaly,Shawarma Corner,0
+2024-06-01,Galaly,Shawarma Corner,2
+2024-07-01,Galaly,Shawarma Corner,1
+2024-02-01,Galaly,Karak & Co,0
+2024-03-01,Galaly,Karak & Co,3
+2024-04-01,Galaly,Karak & Co,1
+2024-05-01,Galaly,Karak & Co,1
+2024-06-01,Galaly,Karak & Co,2
+2024-07-01,Galaly,Karak & Co,0
+2024-02-01,Galaly,Biryani Bowl,0
+2024-03-01,Galaly,Biryani Bowl,0
+2024-04-01,Galaly,Biryani Bowl,2
+2024-05-01,Galaly,Biryani Bowl,0
+2024-06-01,Galaly,Biryani Bowl,0
+2024-07-01,Galaly,Biryani Bowl,1
+2024-02-01,Galaly,Salad Studio,1
+2024-03-01,Galaly,Salad Studio,1
+2024-04-01,Galaly,Salad Studio,1
+2024-05-01,Galaly,Salad Studio,0
+2024-06-01,Galaly,Salad Studio,0
+2024-07-01,Galaly,Salad Studio,1
+2024-02-01,Galaly,Dessert Lab,0
+2024-03-01,Galaly,Dessert Lab,0
+2024-04-01,Galaly,Dessert Lab,1
+2024-05-01,Galaly,Dessert Lab,0
+2024-06-01,Galaly,Dessert Lab,1
+2024-07-01,Galaly,Dessert Lab,0
+2024-02-01,Amwaj Islands,Shawarma Corner,0
+2024-03-01,Amwaj Islands,Shawarma Corner,1
+2024-04-01,Amwaj Islands,Shawarma Corner,1
+2024-05-01,Amwaj Islands,Shawarma Corner,1
+2024-06-01,Amwaj Islands,Shawarma Corner,2
+2024-07-01,Amwaj Islands,Shawarma Corner,3
+2024-02-01,Amwaj Islands,Pizza Point,0
+2024-03-01,Amwaj Islands,Pizza Point,0
+2024-04-01,Amwaj Islands,Pizza Point,2
+2024-05-01,Amwaj Islands,Pizza Point,1
+2024-06-01,Amwaj Islands,Pizza Point,0
+2024-07-01,Amwaj Islands,Pizza Point,1
+2024-02-01,Amwaj Islands,Sushi Tide,0
+2024-03-01,Amwaj Islands,Sushi Tide,0
+2024-04-01,Amwaj Islands,Sushi Tide,4
+2024-05-01,Amwaj Islands,Sushi Tide,2
+2024-06-01,Amwaj Islands,Sushi Tide,0
+2024-07-01,Amwaj Islands,Sushi Tide,0
+2024-02-01,Amwaj Islands,Noodle Box,2
+2024-03-01,Amwaj Islands,Noodle Box,1
+2024-04-01,Amwaj Islands,Noodle Box,0
+2024-05-01,Amwaj Islands,Noodle Box,0
+2024-06-01,Amwaj Islands,Noodle Box,0
+2024-07-01,Amwaj Islands,Noodle Box,0
+2024-02-01,Salmabad,Grill House,2
+2024-03-01,Salmabad,Grill House,1
+2024-04-01,Salmabad,Grill House,1
+2024-05-01,Salmabad,Grill House,1
+2024-06-01,Salmabad,Grill House,3
+2024-07-01,Salmabad,Grill House,0
+2024-02-01,Salmabad,Shawarma Corner,0
+2024-03-01,Salmabad,Shawarma Corner,1
+2024-04-01,Salmabad,Shawarma Corner,1
+2024-05-01,Salmabad,Shawarma Corner,0
+2024-06-01,Salmabad,Shawarma Corner,4
+2024-07-01,Salmabad,Shawarma Corner,1
+2024-02-01,Salmabad,Karak & Co,0
+2024-03-01,Salmabad,Karak & Co,0
+2024-04-01,Salmabad,Karak & Co,3
+2024-05-01,Salmabad,Karak & Co,2
+2024-06-01,Salmabad,Karak & Co,0
+2024-07-01,Salmabad,Karak & Co,2
+2024-02-01,Salmabad,Falafel Street,0
+2024-03-01,Salmabad,Falafel Street,0
+2024-04-01,Salmabad,Falafel Street,2
+2024-05-01,Salmabad,Falafel Street,3
+2024-06-01,Salmabad,Falafel Street,0
+2024-07-01,Salmabad,Falafel Street,0
+2024-02-01,Salmabad,Noodle Box,1
+2024-03-01,Salmabad,Noodle Box,0
+2024-04-01,Salmabad,Noodle Box,1
+2024-05-01,Salmabad,Noodle Box,0
+2024-06-01,Salmabad,Noodle Box,0
+2024-07-01,Salmabad,Noodle Box,0
+2024-02-01,Sitra Al Qaryah,Grill House,0
+2024-03-01,Sitra Al Qaryah,Grill House,2
+2024-04-01,Sitra Al Qaryah,Grill House,2
+2024-05-01,Sitra Al Qaryah,Grill House,1
+2024-06-01,Sitra Al Qaryah,Grill House,1
+2024-07-01,Sitra Al Qaryah,Grill House,0
+2024-02-01,Sitra Al Qaryah,Burger Bay,5
+2024-03-01,Sitra Al Qaryah,Burger Bay,1
+2024-04-01,Sitra Al Qaryah,Burger Bay,0
+2024-05-01,Sitra Al Qaryah,Burger Bay,1
+2024-06-01,Sitra Al Qaryah,Burger Bay,0
+2024-07-01,Sitra Al Qaryah,Burger Bay,3
+2024-02-01,Sitra Al Qaryah,Shawarma Corner,1
+2024-03-01,Sitra Al Qaryah,Shawarma Corner,1
+2024-04-01,Sitra Al Qaryah,Shawarma Corner,0
+2024-05-01,Sitra Al Qaryah,Shawarma Corner,0
+2024-06-01,Sitra Al Qaryah,Shawarma Corner,2
+2024-07-01,Sitra Al Qaryah,Shawarma Corner,3
+2024-02-01,Sitra Al Qaryah,Pizza Point,0
+2024-03-01,Sitra Al Qaryah,Pizza Point,2
+2024-04-01,Sitra Al Qaryah,Pizza Point,3
+2024-05-01,Sitra Al Qaryah,Pizza Point,0
+2024-06-01,Sitra Al Qaryah,Pizza Point,2
+2024-07-01,Sitra Al Qaryah,Pizza Point,0
+2024-02-01,Sitra Al Qaryah,Biryani Bowl,0
+2024-03-01,Sitra Al Qaryah,Biryani Bowl,0
+2024-04-01,Sitra Al Qaryah,Biryani Bowl,2
+2024-05-01,Sitra Al Qaryah,Biryani Bowl,4
+2024-06-01,Sitra Al Qaryah,Biryani Bowl,0
+2024-07-01,Sitra Al Qaryah,Biryani Bowl,4
+2024-02-01,Sitra Al Qaryah,Sushi Tide,1
+2024-03-01,Sitra Al Qaryah,Sushi Tide,0
+2024-04-01,Sitra Al Qaryah,Sushi Tide,0
+2024-05-01,Sitra Al Qaryah,Sushi Tide,0
+2024-06-01,Sitra Al Qaryah,Sushi Tide,1
+2024-07-01,Sitra Al Qaryah,Sushi Tide,0
+2024-02-01,Sitra Al Qaryah,Salad Studio,0
+2024-03-01,Sitra Al Qaryah,Salad Studio,0
+2024-04-01,Sitra Al Qaryah,Salad Studio,0
+2024-05-01,Sitra Al Qaryah,Salad Studio,0
+2024-06-01,Sitra Al Qaryah,Salad Studio,1
+2024-07-01,Sitra Al Qaryah,Salad Studio,0
+2024-02-01,Sitra Al Qaryah,Falafel Street,0
+2024-03-01,Sitra Al Qaryah,Falafel Street,1
+2024-04-01,Sitra Al Qaryah,Falafel Street,0
+2024-05-01,Sitra Al Qaryah,Falafel Street,0
+2024-06-01,Sitra Al Qaryah,Falafel Street,0
+2024-07-01,Sitra Al Qaryah,Falafel Street,0
+2024-02-01,Sitra Al Qaryah,Dessert Lab,0
+2024-03-01,Sitra Al Qaryah,Dessert Lab,1
+2024-04-01,Sitra Al Qaryah,Dessert Lab,0
+2024-05-01,Sitra Al Qaryah,Dessert Lab,0
+2024-06-01,Sitra Al Qaryah,Dessert Lab,0
+2024-07-01,Sitra Al Qaryah,Dessert Lab,1
+2024-02-01,Jid Ali,Grill House,1
+2024-03-01,Jid Ali,Grill House,1
+2024-04-01,Jid Ali,Grill House,4
+2024-05-01,Jid Ali,Grill House,2
+2024-06-01,Jid Ali,Grill House,1
+2024-07-01,Jid Ali,Grill House,1
+2024-02-01,Jid Ali,Burger Bay,0
+2024-03-01,Jid Ali,Burger Bay,1
+2024-04-01,Jid Ali,Burger Bay,4
+2024-05-01,Jid Ali,Burger Bay,2
+2024-06-01,Jid Ali,Burger Bay,2
+2024-07-01,Jid Ali,Burger Bay,1
+2024-02-01,Jid Ali,Shawarma Corner,1
+2024-03-01,Jid Ali,Shawarma Corner,1
+2024-04-01,Jid Ali,Shawarma Corner,0
+2024-05-01,Jid Ali,Shawarma Corner,1
+2024-06-01,Jid Ali,Shawarma Corner,2
+2024-07-01,Jid Ali,Shawarma Corner,1
+2024-02-01,Jid Ali,Pizza Point,1
+2024-03-01,Jid Ali,Pizza Point,1
+2024-04-01,Jid Ali,Pizza Point,1
+2024-05-01,Jid Ali,Pizza Point,0
+2024-06-01,Jid Ali,Pizza Point,1
+2024-07-01,Jid Ali,Pizza Point,0
+2024-02-01,Jid Ali,Sushi Tide,0
+2024-03-01,Jid Ali,Sushi Tide,0
+2024-04-01,Jid Ali,Sushi Tide,1
+2024-05-01,Jid Ali,Sushi Tide,1
+2024-06-01,Jid Ali,Sushi Tide,2
+2024-07-01,Jid Ali,Sushi Tide,0
+2024-02-01,Jid Ali,Salad Studio,1
+2024-03-01,Jid Ali,Salad Studio,0
+2024-04-01,Jid Ali,Salad Studio,0
+2024-05-01,Jid Ali,Salad Studio,0
+2024-06-01,Jid Ali,Salad Studio,1
+2024-07-01,Jid Ali,Salad Studio,0
+2024-02-01,Zinj,Burger Bay,3
+2024-03-01,Zinj,Burger Bay,1
+2024-04-01,Zinj,Burger Bay,2
+2024-05-01,Zinj,Burger Bay,0
+2024-06-01,Zinj,Burger Bay,0
+2024-07-01,Zinj,Burger Bay,1
+2024-02-01,Zinj,Pizza Point,0
+2024-03-01,Zinj,Pizza Point,1
+2024-04-01,Zinj,Pizza Point,2
+2024-05-01,Zinj,Pizza Point,1
+2024-06-01,Zinj,Pizza Point,0
+2024-07-01,Zinj,Pizza Point,0
+2024-02-01,Zinj,Biryani Bowl,0
+2024-03-01,Zinj,Biryani Bowl,0
+2024-04-01,Zinj,Biryani Bowl,1
+2024-05-01,Zinj,Biryani Bowl,0
+2024-06-01,Zinj,Biryani Bowl,0
+2024-07-01,Zinj,Biryani Bowl,0
+2024-02-01,Zinj,Sushi Tide,0
+2024-03-01,Zinj,Sushi Tide,0
+2024-04-01,Zinj,Sushi Tide,0
+2024-05-01,Zinj,Sushi Tide,1
+2024-06-01,Zinj,Sushi Tide,0
+2024-07-01,Zinj,Sushi Tide,0
+2024-02-01,Zinj,Falafel Street,0
+2024-03-01,Zinj,Falafel Street,0
+2024-04-01,Zinj,Falafel Street,0
+2024-05-01,Zinj,Falafel Street,0
+2024-06-01,Zinj,Falafel Street,0
+2024-07-01,Zinj,Falafel Street,0
+2024-02-01,Adliya,Grill House,3
+2024-03-01,Adliya,Grill House,1
+2024-04-01,Adliya,Grill House,0
+2024-05-01,Adliya,Grill House,0
+2024-06-01,Adliya,Grill House,1
+2024-07-01,Adliya,Grill House,1
+2024-02-01,Adliya,Shawarma Corner,2
+2024-03-01,Adliya,Shawarma Corner,2
+2024-04-01,Adliya,Shawarma Corner,0
+2024-05-01,Adliya,Shawarma Corner,1
+2024-06-01,Adliya,Shawarma Corner,2
+2024-07-01,Adliya,Shawarma Corner,1
+2024-02-01,Adliya,Pizza Point,1
+2024-03-01,Adliya,Pizza Point,4
+2024-04-01,Adliya,Pizza Point,2
+2024-05-01,Adliya,Pizza Point,2
+2024-06-01,Adliya,Pizza Point,3
+2024-07-01,Adliya,Pizza Point,0
+2024-02-01,Adliya,Sushi Tide,1
+2024-03-01,Adliya,Sushi Tide,0
+2024-04-01,Adliya,Sushi Tide,0
+2024-05-01,Adliya,Sushi Tide,0
+2024-06-01,Adliya,Sushi Tide,0
+2024-07-01,Adliya,Sushi Tide,1
+2024-02-01,Adliya,Falafel Street,1
+2024-03-01,Adliya,Falafel Street,1
+2024-04-01,Adliya,Falafel Street,0
+2024-05-01,Adliya,Falafel Street,1
+2024-06-01,Adliya,Falafel Street,0
+2024-07-01,Adliya,Falafel Street,2
+2024-02-01,Adliya,Dessert Lab,0
+2024-03-01,Adliya,Dessert Lab,0
+2024-04-01,Adliya,Dessert Lab,0
+2024-05-01,Adliya,Dessert Lab,0
+2024-06-01,Adliya,Dessert Lab,0
+2024-07-01,Adliya,Dessert Lab,0
+2024-02-01,Um Al Hassam,Burger Bay,1
+2024-03-01,Um Al Hassam,Burger Bay,3
+2024-04-01,Um Al Hassam,Burger Bay,2
+2024-05-01,Um Al Hassam,Burger Bay,2
+2024-06-01,Um Al Hassam,Burger Bay,0
+2024-07-01,Um Al Hassam,Burger Bay,0
+2024-02-01,Um Al Hassam,Shawarma Corner,2
+2024-03-01,Um Al Hassam,Shawarma Corner,1
+2024-04-01,Um Al Hassam,Shawarma Corner,1
+2024-05-01,Um Al Hassam,Shawarma Corner,0
+2024-06-01,Um Al Hassam,Shawarma Corner,0
+2024-07-01,Um Al Hassam,Shawarma Corner,0
+2024-02-01,Um Al Hassam,Pizza Point,0
+2024-03-01,Um Al Hassam,Pizza Point,1
+2024-04-01,Um Al Hassam,Pizza Point,2
+2024-05-01,Um Al Hassam,Pizza Point,1
+2024-06-01,Um Al Hassam,Pizza Point,0
+2024-07-01,Um Al Hassam,Pizza Point,3
+2024-02-01,Um Al Hassam,Salad Studio,0
+2024-03-01,Um Al Hassam,Salad Studio,0
+2024-04-01,Um Al Hassam,Salad Studio,0
+2024-05-01,Um Al Hassam,Salad Studio,0
+2024-06-01,Um Al Hassam,Salad Studio,0
+2024-07-01,Um Al Hassam,Salad Studio,0
+2024-02-01,Um Al Hassam,Falafel Street,0
+2024-03-01,Um Al Hassam,Falafel Street,1
+2024-04-01,Um Al Hassam,Falafel Street,0
+2024-05-01,Um Al Hassam,Falafel Street,0
+2024-06-01,Um Al Hassam,Falafel Street,0
+2024-07-01,Um Al Hassam,Falafel Street,0
+2024-02-01,Um Al Hassam,Dessert Lab,0
+2024-03-01,Um Al Hassam,Dessert Lab,1
+2024-04-01,Um Al Hassam,Dessert Lab,0
+2024-05-01,Um Al Hassam,Dessert Lab,2
+2024-06-01,Um Al Hassam,Dessert Lab,0
+2024-07-01,Um Al Hassam,Dessert Lab,0
+2024-02-01,Um Al Hassam,Noodle Box,0
+2024-03-01,Um Al Hassam,Noodle Box,0
+2024-04-01,Um Al Hassam,Noodle Box,1
+2024-05-01,Um Al Hassam,Noodle Box,0
+2024-06-01,Um Al Hassam,Noodle Box,0
+2024-07-01,Um Al Hassam,Noodle Box,0
+2024-02-01,Budaiya,Karak & Co,0
+2024-03-01,Budaiya,Karak & Co,0
+2024-04-01,Budaiya,Karak & Co,1
+2024-05-01,Budaiya,Karak & Co,0
+2024-06-01,Budaiya,Karak & Co,0
+2024-07-01,Budaiya,Karak & Co,0
+2024-02-01,Budaiya,Biryani Bowl,0
+2024-03-01,Budaiya,Biryani Bowl,0
+2024-04-01,Budaiya,Biryani Bowl,0
+2024-05-01,Budaiya,Biryani Bowl,0
+2024-06-01,Budaiya,Biryani Bowl,0
+2024-07-01,Budaiya,Biryani Bowl,1
+2024-02-01,Budaiya,Sushi Tide,0
+2024-03-01,Budaiya,Sushi Tide,1
+2024-04-01,Budaiya,Sushi Tide,1
+2024-05-01,Budaiya,Sushi Tide,0
+2024-06-01,Budaiya,Sushi Tide,0
+2024-07-01,Budaiya,Sushi Tide,0
+2024-02-01,Budaiya,Salad Studio,0
+2024-03-01,Budaiya,Salad Studio,0
+2024-04-01,Budaiya,Salad Studio,1
+2024-05-01,Budaiya,Salad Studio,0
+2024-06-01,Budaiya,Salad Studio,1
+2024-07-01,Budaiya,Salad Studio,0
+2024-02-01,Budaiya,Dessert Lab,0
+2024-03-01,Budaiya,Dessert Lab,0
+2024-04-01,Budaiya,Dessert Lab,0
+2024-05-01,Budaiya,Dessert Lab,0
+2024-06-01,Budaiya,Dessert Lab,0
+2024-07-01,Budaiya,Dessert Lab,0
+2024-02-01,Budaiya,Noodle Box,1
+2024-03-01,Budaiya,Noodle Box,0
+2024-04-01,Budaiya,Noodle Box,0
+2024-05-01,Budaiya,Noodle Box,0
+2024-06-01,Budaiya,Noodle Box,0
+2024-07-01,Budaiya,Noodle Box,0
+2024-02-01,Diraz,Burger Bay,1
+2024-03-01,Diraz,Burger Bay,4
+2024-04-01,Diraz,Burger Bay,2
+2024-05-01,Diraz,Burger Bay,1
+2024-06-01,Diraz,Burger Bay,0
+2024-07-01,Diraz,Burger Bay,1
+2024-02-01,Diraz,Shawarma Corner,1
+2024-03-01,Diraz,Shawarma Corner,0
+2024-04-01,Diraz,Shawarma Corner,1
+2024-05-01,Diraz,Shawarma Corner,2
+2024-06-01,Diraz,Shawarma Corner,2
+2024-07-01,Diraz,Shawarma Corner,3
+2024-02-01,Diraz,Pizza Point,1
+2024-03-01,Diraz,Pizza Point,1
+2024-04-01,Diraz,Pizza Point,0
+2024-05-01,Diraz,Pizza Point,0
+2024-06-01,Diraz,Pizza Point,2
+2024-07-01,Diraz,Pizza Point,0
+2024-02-01,Diraz,Karak & Co,0
+2024-03-01,Diraz,Karak & Co,0
+2024-04-01,Diraz,Karak & Co,1
+2024-05-01,Diraz,Karak & Co,0
+2024-06-01,Diraz,Karak & Co,2
+2024-07-01,Diraz,Karak & Co,0
+2024-02-01,Diraz,Salad Studio,1
+2024-03-01,Diraz,Salad Studio,0
+2024-04-01,Diraz,Salad Studio,0
+2024-05-01,Diraz,Salad Studio,1
+2024-06-01,Diraz,Salad Studio,1
+2024-07-01,Diraz,Salad Studio,0
+2024-02-01,Diraz,Falafel Street,0
+2024-03-01,Diraz,Falafel Street,1
+2024-04-01,Diraz,Falafel Street,0
+2024-05-01,Diraz,Falafel Street,0
+2024-06-01,Diraz,Falafel Street,0
+2024-07-01,Diraz,Falafel Street,1
+2024-02-01,Barbar,Burger Bay,0
+2024-03-01,Barbar,Burger Bay,2
+2024-04-01,Barbar,Burger Bay,0
+2024-05-01,Barbar,Burger Bay,1
+2024-06-01,Barbar,Burger Bay,0
+2024-07-01,Barbar,Burger Bay,1
+2024-02-01,Barbar,Shawarma Corner,2
+2024-03-01,Barbar,Shawarma Corner,0
+2024-04-01,Barbar,Shawarma Corner,0
+2024-05-01,Barbar,Shawarma Corner,1
+2024-06-01,Barbar,Shawarma Corner,0
+2024-07-01,Barbar,Shawarma Corner,2
+2024-02-01,Barbar,Karak & Co,1
+2024-03-01,Barbar,Karak & Co,1
+2024-04-01,Barbar,Karak & Co,2
+2024-05-01,Barbar,Karak & Co,0
+2024-06-01,Barbar,Karak & Co,1
+2024-07-01,Barbar,Karak & Co,0
+2024-02-01,Barbar,Biryani Bowl,0
+2024-03-01,Barbar,Biryani Bowl,0
+2024-04-01,Barbar,Biryani Bowl,1
+2024-05-01,Barbar,Biryani Bowl,0
+2024-06-01,Barbar,Biryani Bowl,1
+2024-07-01,Barbar,Biryani Bowl,1
+2024-02-01,Barbar,Sushi Tide,0
+2024-03-01,Barbar,Sushi Tide,1
+2024-04-01,Barbar,Sushi Tide,0
+2024-05-01,Barbar,Sushi Tide,1
+2024-06-01,Barbar,Sushi Tide,0
+2024-07-01,Barbar,Sushi Tide,0
+2024-02-01,Barbar,Falafel Street,0
+2024-03-01,Barbar,Falafel Street,0
+2024-04-01,Barbar,Falafel Street,0
+2024-05-01,Barbar,Falafel Street,0
+2024-06-01,Barbar,Falafel Street,0
+2024-07-01,Barbar,Falafel Street,1
+2024-02-01,Barbar,Noodle Box,0
+2024-03-01,Barbar,Noodle Box,1
+2024-04-01,Barbar,Noodle Box,0
+2024-05-01,Barbar,Noodle Box,0
+2024-06-01,Barbar,Noodle Box,0
+2024-07-01,Barbar,Noodle Box,0
+2024-02-01,Janabiya,Shawarma Corner,0
+2024-03-01,Janabiya,Shawarma Corner,1
+2024-04-01,Janabiya,Shawarma Corner,0
+2024-05-01,Janabiya,Shawarma Corner,1
+2024-06-01,Janabiya,Shawarma Corner,1
+2024-07-01,Janabiya,Shawarma Corner,0
+2024-02-01,Janabiya,Pizza Point,0
+2024-03-01,Janabiya,Pizza Point,0
+2024-04-01,Janabiya,Pizza Point,1
+2024-05-01,Janabiya,Pizza Point,1
+2024-06-01,Janabiya,Pizza Point,0
+2024-07-01,Janabiya,Pizza Point,0
+2024-02-01,Janabiya,Biryani Bowl,0
+2024-03-01,Janabiya,Biryani Bowl,0
+2024-04-01,Janabiya,Biryani Bowl,0
+2024-05-01,Janabiya,Biryani Bowl,1
+2024-06-01,Janabiya,Biryani Bowl,1
+2024-07-01,Janabiya,Biryani Bowl,0
+2024-02-01,Janabiya,Salad Studio,1
+2024-03-01,Janabiya,Salad Studio,1
+2024-04-01,Janabiya,Salad Studio,0
+2024-05-01,Janabiya,Salad Studio,0
+2024-06-01,Janabiya,Salad Studio,0
+2024-07-01,Janabiya,Salad Studio,0
+2024-02-01,Hamala,Grill House,2
+2024-03-01,Hamala,Grill House,0
+2024-04-01,Hamala,Grill House,1
+2024-05-01,Hamala,Grill House,2
+2024-06-01,Hamala,Grill House,0
+2024-07-01,Hamala,Grill House,0
+2024-02-01,Hamala,Pizza Point,0
+2024-03-01,Hamala,Pizza Point,1
+2024-04-01,Hamala,Pizza Point,1
+2024-05-01,Hamala,Pizza Point,1
+2024-06-01,Hamala,Pizza Point,1
+2024-07-01,Hamala,Pizza Point,0
+2024-02-01,Hamala,Karak & Co,2
+2024-03-01,Hamala,Karak & Co,1
+2024-04-01,Hamala,Karak & Co,0
+2024-05-01,Hamala,Karak & Co,0
+2024-06-01,Hamala,Karak & Co,1
+2024-07-01,Hamala,Karak & Co,0
+2024-02-01,Hamala,Sushi Tide,0
+2024-03-01,Hamala,Sushi Tide,0
+2024-04-01,Hamala,Sushi Tide,0
+2024-05-01,Hamala,Sushi Tide,0
+2024-06-01,Hamala,Sushi Tide,0
+2024-07-01,Hamala,Sushi Tide,0
+2024-02-01,Hamala,Salad Studio,1
+2024-03-01,Hamala,Salad Studio,1
+2024-04-01,Hamala,Salad Studio,0
+2024-05-01,Hamala,Salad Studio,0
+2024-06-01,Hamala,Salad Studio,0
+2024-07-01,Hamala,Salad Studio,0
+2024-02-01,Hamala,Falafel Street,1
+2024-03-01,Hamala,Falafel Street,1
+2024-04-01,Hamala,Falafel Street,0
+2024-05-01,Hamala,Falafel Street,0
+2024-06-01,Hamala,Falafel Street,0
+2024-07-01,Hamala,Falafel Street,0
+2024-02-01,Jidhafs,Grill House,0
+2024-03-01,Jidhafs,Grill House,1
+2024-04-01,Jidhafs,Grill House,0
+2024-05-01,Jidhafs,Grill House,0
+2024-06-01,Jidhafs,Grill House,2
+2024-07-01,Jidhafs,Grill House,0
+2024-02-01,Jidhafs,Burger Bay,0
+2024-03-01,Jidhafs,Burger Bay,0
+2024-04-01,Jidhafs,Burger Bay,0
+2024-05-01,Jidhafs,Burger Bay,1
+2024-06-01,Jidhafs,Burger Bay,0
+2024-07-01,Jidhafs,Burger Bay,1
+2024-02-01,Jidhafs,Shawarma Corner,0
+2024-03-01,Jidhafs,Shawarma Corner,1
+2024-04-01,Jidhafs,Shawarma Corner,0
+2024-05-01,Jidhafs,Shawarma Corner,1
+2024-06-01,Jidhafs,Shawarma Corner,0
+2024-07-01,Jidhafs,Shawarma Corner,0
+2024-02-01,Jidhafs,Karak & Co,1
+2024-03-01,Jidhafs,Karak & Co,1
+2024-04-01,Jidhafs,Karak & Co,2
+2024-05-01,Jidhafs,Karak & Co,0
+2024-06-01,Jidhafs,Karak & Co,1
+2024-07-01,Jidhafs,Karak & Co,1
+2024-02-01,Jidhafs,Sushi Tide,1
+2024-03-01,Jidhafs,Sushi Tide,0
+2024-04-01,Jidhafs,Sushi Tide,0
+2024-05-01,Jidhafs,Sushi Tide,1
+2024-06-01,Jidhafs,Sushi Tide,0
+2024-07-01,Jidhafs,Sushi Tide,0
+2024-02-01,Jidhafs,Falafel Street,0
+2024-03-01,Jidhafs,Falafel Street,0
+2024-04-01,Jidhafs,Falafel Street,0
+2024-05-01,Jidhafs,Falafel Street,0
+2024-06-01,Jidhafs,Falafel Street,0
+2024-07-01,Jidhafs,Falafel Street,1
+2024-02-01,Sanad,Burger Bay,0
+2024-03-01,Sanad,Burger Bay,0
+2024-04-01,Sanad,Burger Bay,1
+2024-05-01,Sanad,Burger Bay,1
+2024-06-01,Sanad,Burger Bay,0
+2024-07-01,Sanad,Burger Bay,1
+2024-02-01,Sanad,Pizza Point,1
+2024-03-01,Sanad,Pizza Point,1
+2024-04-01,Sanad,Pizza Point,0
+2024-05-01,Sanad,Pizza Point,0
+2024-06-01,Sanad,Pizza Point,1
+2024-07-01,Sanad,Pizza Point,0
+2024-02-01,Sanad,Karak & Co,1
+2024-03-01,Sanad,Karak & Co,1
+2024-04-01,Sanad,Karak & Co,0
+2024-05-01,Sanad,Karak & Co,0
+2024-06-01,Sanad,Karak & Co,0
+2024-07-01,Sanad,Karak & Co,1
+2024-02-01,Sanad,Biryani Bowl,1
+2024-03-01,Sanad,Biryani Bowl,0
+2024-04-01,Sanad,Biryani Bowl,0
+2024-05-01,Sanad,Biryani Bowl,0
+2024-06-01,Sanad,Biryani Bowl,0
+2024-07-01,Sanad,Biryani Bowl,1
+2024-02-01,Sanad,Sushi Tide,0
+2024-03-01,Sanad,Sushi Tide,1
+2024-04-01,Sanad,Sushi Tide,0
+2024-05-01,Sanad,Sushi Tide,0
+2024-06-01,Sanad,Sushi Tide,0
+2024-07-01,Sanad,Sushi Tide,5
+2024-02-01,Sanad,Falafel Street,0
+2024-03-01,Sanad,Falafel Street,0
+2024-04-01,Sanad,Falafel Street,1
+2024-05-01,Sanad,Falafel Street,0
+2024-06-01,Sanad,Falafel Street,0
+2024-07-01,Sanad,Falafel Street,1
+2024-02-01,Sanad,Dessert Lab,0
+2024-03-01,Sanad,Dessert Lab,0
+2024-04-01,Sanad,Dessert Lab,0
+2024-05-01,Sanad,Dessert Lab,0
+2024-06-01,Sanad,Dessert Lab,0
+2024-07-01,Sanad,Dessert Lab,0
+2024-02-01,Aali,Burger Bay,1
+2024-03-01,Aali,Burger Bay,0
+2024-04-01,Aali,Burger Bay,0
+2024-05-01,Aali,Burger Bay,0
+2024-06-01,Aali,Burger Bay,0
+2024-07-01,Aali,Burger Bay,1
+2024-02-01,Aali,Dessert Lab,0
+2024-03-01,Aali,Dessert Lab,0
+2024-04-01,Aali,Dessert Lab,0
+2024-05-01,Aali,Dessert Lab,0
+2024-06-01,Aali,Dessert Lab,0
+2024-07-01,Aali,Dessert Lab,1
+2024-02-01,Aali,Noodle Box,0
+2024-03-01,Aali,Noodle Box,0
+2024-04-01,Aali,Noodle Box,1
+2024-05-01,Aali,Noodle Box,0
+2024-06-01,Aali,Noodle Box,1
+2024-07-01,Aali,Noodle Box,0
+2024-02-01,Askar,Grill House,0
+2024-03-01,Askar,Grill House,1
+2024-04-01,Askar,Grill House,1
+2024-05-01,Askar,Grill House,0
+2024-06-01,Askar,Grill House,1
+2024-07-01,Askar,Grill House,2
+2024-02-01,Askar,Burger Bay,1
+2024-03-01,Askar,Burger Bay,2
+2024-04-01,Askar,Burger Bay,0
+2024-05-01,Askar,Burger Bay,1
+2024-06-01,Askar,Burger Bay,0
+2024-07-01,Askar,Burger Bay,0
+2024-02-01,Askar,Sushi Tide,0
+2024-03-01,Askar,Sushi Tide,0
+2024-04-01,Askar,Sushi Tide,2
+2024-05-01,Askar,Sushi Tide,0
+2024-06-01,Askar,Sushi Tide,0
+2024-07-01,Askar,Sushi Tide,0
+2024-02-01,Askar,Salad Studio,0
+2024-03-01,Askar,Salad Studio,0
+2024-04-01,Askar,Salad Studio,0
+2024-05-01,Askar,Salad Studio,1
+2024-06-01,Askar,Salad Studio,0
+2024-07-01,Askar,Salad Studio,0
+2024-02-01,Zallaq,Grill House,0
+2024-03-01,Zallaq,Grill House,0
+2024-04-01,Zallaq,Grill House,0
+2024-05-01,Zallaq,Grill House,0
+2024-06-01,Zallaq,Grill House,2
+2024-07-01,Zallaq,Grill House,0
+2024-02-01,Zallaq,Burger Bay,0
+2024-03-01,Zallaq,Burger Bay,2
+2024-04-01,Zallaq,Burger Bay,1
+2024-05-01,Zallaq,Burger Bay,0
+2024-06-01,Zallaq,Burger Bay,1
+2024-07-01,Zallaq,Burger Bay,0
+2024-02-01,Zallaq,Biryani Bowl,0
+2024-03-01,Zallaq,Biryani Bowl,0
+2024-04-01,Zallaq,Biryani Bowl,1
+2024-05-01,Zallaq,Biryani Bowl,0
+2024-06-01,Zallaq,Biryani Bowl,0
+2024-07-01,Zallaq,Biryani Bowl,0
+2024-02-01,Karbabad,Pizza Point,0
+2024-03-01,Karbabad,Pizza Point,0
+2024-04-01,Karbabad,Pizza Point,0
+2024-05-01,Karbabad,Pizza Point,0
+2024-06-01,Karbabad,Pizza Point,0
+2024-07-01,Karbabad,Pizza Point,1
+2024-02-01,Karbabad,Biryani Bowl,0
+2024-03-01,Karbabad,Biryani Bowl,0
+2024-04-01,Karbabad,Biryani Bowl,0
+2024-05-01,Karbabad,Biryani Bowl,0
+2024-06-01,Karbabad,Biryani Bowl,1
+2024-07-01,Karbabad,Biryani Bowl,1
+2024-02-01,Karbabad,Noodle Box,1
+2024-03-01,Karbabad,Noodle Box,1
+2024-04-01,Karbabad,Noodle Box,0
+2024-05-01,Karbabad,Noodle Box,0
+2024-06-01,Karbabad,Noodle Box,0
+2024-07-01,Karbabad,Noodle Box,0
+2024-02-01,Sehla,Salad Studio,0
+2024-03-01,Sehla,Salad Studio,0
+2024-04-01,Sehla,Salad Studio,0
+2024-05-01,Sehla,Salad Studio,0
+2024-06-01,Sehla,Salad Studio,1
+2024-07-01,Sehla,Salad Studio,0
+2024-02-01,Sehla,Noodle Box,0
+2024-03-01,Sehla,Noodle Box,1
+2024-04-01,Sehla,Noodle Box,0
+2024-05-01,Sehla,Noodle Box,0
+2024-06-01,Sehla,Noodle Box,0
+2024-07-01,Sehla,Noodle Box,0
+2024-02-01,Qudaibiya,Karak & Co,1
+2024-03-01,Qudaibiya,Karak & Co,0
+2024-04-01,Qudaibiya,Karak & Co,1
+2024-05-01,Qudaibiya,Karak & Co,3
+2024-06-01,Qudaibiya,Karak & Co,1
+2024-07-01,Qudaibiya,Karak & Co,0
+2024-02-01,Qudaibiya,Salad Studio,0
+2024-03-01,Qudaibiya,Salad Studio,0
+2024-04-01,Qudaibiya,Salad Studio,2
+2024-05-01,Qudaibiya,Salad Studio,0
+2024-06-01,Qudaibiya,Salad Studio,0
+2024-07-01,Qudaibiya,Salad Studio,0
+2024-02-01,Qudaibiya,Falafel Street,0
+2024-03-01,Qudaibiya,Falafel Street,0
+2024-04-01,Qudaibiya,Falafel Street,0
+2024-05-01,Qudaibiya,Falafel Street,0
+2024-06-01,Qudaibiya,Falafel Street,0
+2024-07-01,Qudaibiya,Falafel Street,1
+2024-02-01,Hoora,Salad Studio,0
+2024-03-01,Hoora,Salad Studio,0
+2024-04-01,Hoora,Salad Studio,0
+2024-05-01,Hoora,Salad Studio,0
+2024-06-01,Hoora,Salad Studio,0
+2024-07-01,Hoora,Salad Studio,0
+2024-02-01,Hoora,Falafel Street,0
+2024-03-01,Hoora,Falafel Street,0
+2024-04-01,Hoora,Falafel Street,0
+2024-05-01,Hoora,Falafel Street,0
+2024-06-01,Hoora,Falafel Street,1
+2024-07-01,Hoora,Falafel Street,0
+2024-02-01,Hoora,Dessert Lab,0
+2024-03-01,Hoora,Dessert Lab,0
+2024-04-01,Hoora,Dessert Lab,0
+2024-05-01,Hoora,Dessert Lab,1
+2024-06-01,Hoora,Dessert Lab,0
+2024-07-01,Hoora,Dessert Lab,0
+2024-02-01,Reef Island,Grill House,0
+2024-03-01,Reef Island,Grill House,2
+2024-04-01,Reef Island,Grill House,2
+2024-05-01,Reef Island,Grill House,0
+2024-06-01,Reef Island,Grill House,0
+2024-07-01,Reef Island,Grill House,1
+2024-02-01,Diyar Al Muharraq,Sushi Tide,0
+2024-03-01,Diyar Al Muharraq,Sushi Tide,0
+2024-04-01,Diyar Al Muharraq,Sushi Tide,0
+2024-05-01,Diyar Al Muharraq,Sushi Tide,0
+2024-06-01,Diyar Al Muharraq,Sushi Tide,0
+2024-07-01,Diyar Al Muharraq,Sushi Tide,0
+2024-02-01,Diyar Al Muharraq,Noodle Box,0
+2024-03-01,Diyar Al Muharraq,Noodle Box,0
+2024-04-01,Diyar Al Muharraq,Noodle Box,0
+2024-05-01,Diyar Al Muharraq,Noodle Box,0
+2024-06-01,Diyar Al Muharraq,Noodle Box,0
+2024-07-01,Diyar Al Muharraq,Noodle Box,0
+2024-02-01,Salman City,Shawarma Corner,0
+2024-03-01,Salman City,Shawarma Corner,0
+2024-04-01,Salman City,Shawarma Corner,0
+2024-05-01,Salman City,Shawarma Corner,0
+2024-06-01,Salman City,Shawarma Corner,0
+2024-07-01,Salman City,Shawarma Corner,0
+2024-02-01,Bu Ashira,Dessert Lab,0
+2024-03-01,Bu Ashira,Dessert Lab,0
+2024-04-01,Bu Ashira,Dessert Lab,0
+2024-05-01,Bu Ashira,Dessert Lab,0
+2024-06-01,Bu Ashira,Dessert Lab,1
+2024-07-01,Bu Ashira,Dessert Lab,0
+2024-02-01,Bu Ashira,Noodle Box,0
+2024-03-01,Bu Ashira,Noodle Box,0
+2024-04-01,Bu Ashira,Noodle Box,0
+2024-05-01,Bu Ashira,Noodle Box,0
+2024-06-01,Bu Ashira,Noodle Box,0
+2024-07-01,Bu Ashira,Noodle Box,0
+2024-02-01,Karzakkan,Burger Bay,0
+2024-03-01,Karzakkan,Burger Bay,0
+2024-04-01,Karzakkan,Burger Bay,0
+2024-05-01,Karzakkan,Burger Bay,0
+2024-06-01,Karzakkan,Burger Bay,1
+2024-07-01,Karzakkan,Burger Bay,0
+2024-02-01,Karzakkan,Karak & Co,0
+2024-03-01,Karzakkan,Karak & Co,0
+2024-04-01,Karzakkan,Karak & Co,0
+2024-05-01,Karzakkan,Karak & Co,0
+2024-06-01,Karzakkan,Karak & Co,0
+2024-07-01,Karzakkan,Karak & Co,1
+2024-02-01,Karzakkan,Biryani Bowl,0
+2024-03-01,Karzakkan,Biryani Bowl,0
+2024-04-01,Karzakkan,Biryani Bowl,0
+2024-05-01,Karzakkan,Biryani Bowl,0
+2024-06-01,Karzakkan,Biryani Bowl,0
+2024-07-01,Karzakkan,Biryani Bowl,0
+2024-02-01,Karzakkan,Dessert Lab,0
+2024-03-01,Karzakkan,Dessert Lab,0
+2024-04-01,Karzakkan,Dessert Lab,0
+2024-05-01,Karzakkan,Dessert Lab,0
+2024-06-01,Karzakkan,Dessert Lab,1
+2024-07-01,Karzakkan,Dessert Lab,0
+2024-02-01,Nuwaidrat,Grill House,0
+2024-03-01,Nuwaidrat,Grill House,1
+2024-04-01,Nuwaidrat,Grill House,0
+2024-05-01,Nuwaidrat,Grill House,0
+2024-06-01,Nuwaidrat,Grill House,0
+2024-07-01,Nuwaidrat,Grill House,2
+2024-02-01,Nuwaidrat,Burger Bay,0
+2024-03-01,Nuwaidrat,Burger Bay,0
+2024-04-01,Nuwaidrat,Burger Bay,0
+2024-05-01,Nuwaidrat,Burger Bay,0
+2024-06-01,Nuwaidrat,Burger Bay,1
+2024-07-01,Nuwaidrat,Burger Bay,0
+2024-02-01,Nuwaidrat,Biryani Bowl,0
+2024-03-01,Nuwaidrat,Biryani Bowl,0
+2024-04-01,Nuwaidrat,Biryani Bowl,0
+2024-05-01,Nuwaidrat,Biryani Bowl,0
+2024-06-01,Nuwaidrat,Biryani Bowl,0
+2024-07-01,Nuwaidrat,Biryani Bowl,0
+2024-02-01,Maqabah,Grill House,0
+2024-03-01,Maqabah,Grill House,0
+2024-04-01,Maqabah,Grill House,1
+2024-05-01,Maqabah,Grill House,2
+2024-06-01,Maqabah,Grill House,0
+2024-07-01,Maqabah,Grill House,2
+2024-02-01,Maqabah,Salad Studio,0
+2024-03-01,Maqabah,Salad Studio,0
+2024-04-01,Maqabah,Salad Studio,0
+2024-05-01,Maqabah,Salad Studio,0
+2024-06-01,Maqabah,Salad Studio,0
+2024-07-01,Maqabah,Salad Studio,0
+2024-02-01,Jannusan,Grill House,0
+2024-03-01,Jannusan,Grill House,0
+2024-04-01,Jannusan,Grill House,0
+2024-05-01,Jannusan,Grill House,0
+2024-06-01,Jannusan,Grill House,1
+2024-07-01,Jannusan,Grill House,0
+2024-02-01,Jannusan,Burger Bay,0
+2024-03-01,Jannusan,Burger Bay,1
+2024-04-01,Jannusan,Burger Bay,3
+2024-05-01,Jannusan,Burger Bay,1
+2024-06-01,Jannusan,Burger Bay,0
+2024-07-01,Jannusan,Burger Bay,0
+2024-02-01,Jannusan,Shawarma Corner,1
+2024-03-01,Jannusan,Shawarma Corner,1
+2024-04-01,Jannusan,Shawarma Corner,0
+2024-05-01,Jannusan,Shawarma Corner,1
+2024-06-01,Jannusan,Shawarma Corner,1
+2024-07-01,Jannusan,Shawarma Corner,0
+2024-02-01,Jannusan,Pizza Point,1
+2024-03-01,Jannusan,Pizza Point,0
+2024-04-01,Jannusan,Pizza Point,0
+2024-05-01,Jannusan,Pizza Point,3
+2024-06-01,Jannusan,Pizza Point,0
+2024-07-01,Jannusan,Pizza Point,0
+2024-02-01,Jannusan,Karak & Co,0
+2024-03-01,Jannusan,Karak & Co,1
+2024-04-01,Jannusan,Karak & Co,1
+2024-05-01,Jannusan,Karak & Co,0
+2024-06-01,Jannusan,Karak & Co,0
+2024-07-01,Jannusan,Karak & Co,0
+2024-02-01,Jannusan,Biryani Bowl,0
+2024-03-01,Jannusan,Biryani Bowl,0
+2024-04-01,Jannusan,Biryani Bowl,1
+2024-05-01,Jannusan,Biryani Bowl,0
+2024-06-01,Jannusan,Biryani Bowl,1
+2024-07-01,Jannusan,Biryani Bowl,0
+2024-02-01,Jannusan,Salad Studio,1
+2024-03-01,Jannusan,Salad Studio,0
+2024-04-01,Jannusan,Salad Studio,0
+2024-05-01,Jannusan,Salad Studio,0
+2024-06-01,Jannusan,Salad Studio,0
+2024-07-01,Jannusan,Salad Studio,0
+2024-02-01,Sadad,Grill House,0
+2024-03-01,Sadad,Grill House,1
+2024-04-01,Sadad,Grill House,1
+2024-05-01,Sadad,Grill House,0
+2024-06-01,Sadad,Grill House,0
+2024-07-01,Sadad,Grill House,0
+2024-02-01,Sadad,Pizza Point,0
+2024-03-01,Sadad,Pizza Point,0
+2024-04-01,Sadad,Pizza Point,0
+2024-05-01,Sadad,Pizza Point,0
+2024-06-01,Sadad,Pizza Point,0
+2024-07-01,Sadad,Pizza Point,0
+2024-02-01,Sadad,Karak & Co,1
+2024-03-01,Sadad,Karak & Co,0
+2024-04-01,Sadad,Karak & Co,0
+2024-05-01,Sadad,Karak & Co,0
+2024-06-01,Sadad,Karak & Co,0
+2024-07-01,Sadad,Karak & Co,0
+2024-02-01,Sadad,Falafel Street,0
+2024-03-01,Sadad,Falafel Street,0
+2024-04-01,Sadad,Falafel Street,0
+2024-05-01,Sadad,Falafel Street,0
+2024-06-01,Sadad,Falafel Street,0
+2024-07-01,Sadad,Falafel Street,0
+2024-02-01,Sadad,Dessert Lab,0
+2024-03-01,Sadad,Dessert Lab,1
+2024-04-01,Sadad,Dessert Lab,0
+2024-05-01,Sadad,Dessert Lab,0
+2024-06-01,Sadad,Dessert Lab,0
+2024-07-01,Sadad,Dessert Lab,0
+2024-02-01,Sadad,Noodle Box,0
+2024-03-01,Sadad,Noodle Box,1
+2024-04-01,Sadad,Noodle Box,1
+2024-05-01,Sadad,Noodle Box,0
+2024-06-01,Sadad,Noodle Box,0
+2024-07-01,Sadad,Noodle Box,0
+2024-02-01,Duraz,Karak & Co,0
+2024-03-01,Duraz,Karak & Co,0
+2024-04-01,Duraz,Karak & Co,0
+2024-05-01,Duraz,Karak & Co,0
+2024-06-01,Duraz,Karak & Co,0
+2024-07-01,Duraz,Karak & Co,1
+2024-02-01,Duraz,Salad Studio,0
+2024-03-01,Duraz,Salad Studio,0
+2024-04-01,Duraz,Salad Studio,1
+2024-05-01,Duraz,Salad Studio,0
+2024-06-01,Duraz,Salad Studio,0
+2024-07-01,Duraz,Salad Studio,0
+2024-02-01,Duraz,Dessert Lab,0
+2024-03-01,Duraz,Dessert Lab,0
+2024-04-01,Duraz,Dessert Lab,0
+2024-05-01,Duraz,Dessert Lab,0
+2024-06-01,Duraz,Dessert Lab,0
+2024-07-01,Duraz,Dessert Lab,0
+2024-02-01,Al Markh,Grill House,0
+2024-03-01,Al Markh,Grill House,1
+2024-04-01,Al Markh,Grill House,0
+2024-05-01,Al Markh,Grill House,0
+2024-06-01,Al Markh,Grill House,0
+2024-07-01,Al Markh,Grill House,0
+2024-02-01,Al Markh,Burger Bay,0
+2024-03-01,Al Markh,Burger Bay,2
+2024-04-01,Al Markh,Burger Bay,0
+2024-05-01,Al Markh,Burger Bay,0
+2024-06-01,Al Markh,Burger Bay,2
+2024-07-01,Al Markh,Burger Bay,0
+2024-02-01,Al Markh,Pizza Point,0
+2024-03-01,Al Markh,Pizza Point,0
+2024-04-01,Al Markh,Pizza Point,0
+2024-05-01,Al Markh,Pizza Point,0
+2024-06-01,Al Markh,Pizza Point,0
+2024-07-01,Al Markh,Pizza Point,0
+2024-02-01,Al Markh,Biryani Bowl,0
+2024-03-01,Al Markh,Biryani Bowl,0
+2024-04-01,Al Markh,Biryani Bowl,0
+2024-05-01,Al Markh,Biryani Bowl,0
+2024-06-01,Al Markh,Biryani Bowl,0
+2024-07-01,Al Markh,Biryani Bowl,0
+2024-02-01,Al Markh,Salad Studio,0
+2024-03-01,Al Markh,Salad Studio,0
+2024-04-01,Al Markh,Salad Studio,0
+2024-05-01,Al Markh,Salad Studio,0
+2024-06-01,Al Markh,Salad Studio,0
+2024-07-01,Al Markh,Salad Studio,0
+2024-02-01,Al Markh,Dessert Lab,0
+2024-03-01,Al Markh,Dessert Lab,0
+2024-04-01,Al Markh,Dessert Lab,0
+2024-05-01,Al Markh,Dessert Lab,0
+2024-06-01,Al Markh,Dessert Lab,0
+2024-07-01,Al Markh,Dessert Lab,0
+2024-02-01,Bilad Al Qadeem,Shawarma Corner,0
+2024-03-01,Bilad Al Qadeem,Shawarma Corner,0
+2024-04-01,Bilad Al Qadeem,Shawarma Corner,0
+2024-05-01,Bilad Al Qadeem,Shawarma Corner,1
+2024-06-01,Bilad Al Qadeem,Shawarma Corner,0
+2024-07-01,Bilad Al Qadeem,Shawarma Corner,0
+2024-02-01,Bilad Al Qadeem,Pizza Point,0
+2024-03-01,Bilad Al Qadeem,Pizza Point,0
+2024-04-01,Bilad Al Qadeem,Pizza Point,1
+2024-05-01,Bilad Al Qadeem,Pizza Point,0
+2024-06-01,Bilad Al Qadeem,Pizza Point,0
+2024-07-01,Bilad Al Qadeem,Pizza Point,0
+2024-02-01,Bilad Al Qadeem,Karak & Co,0
+2024-03-01,Bilad Al Qadeem,Karak & Co,0
+2024-04-01,Bilad Al Qadeem,Karak & Co,0
+2024-05-01,Bilad Al Qadeem,Karak & Co,1
+2024-06-01,Bilad Al Qadeem,Karak & Co,0
+2024-07-01,Bilad Al Qadeem,Karak & Co,0
+2024-02-01,Bilad Al Qadeem,Biryani Bowl,0
+2024-03-01,Bilad Al Qadeem,Biryani Bowl,0
+2024-04-01,Bilad Al Qadeem,Biryani Bowl,0
+2024-05-01,Bilad Al Qadeem,Biryani Bowl,0
+2024-06-01,Bilad Al Qadeem,Biryani Bowl,0
+2024-07-01,Bilad Al Qadeem,Biryani Bowl,0
