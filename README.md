@@ -48,7 +48,8 @@ Study projects for learning and teaching data science: real-life questions answe
 
 | Project | Question | Tools |
 |---|---|---|
-| [listening](music/listening/) (2 notebooks) | How do Moscow and St. Petersburg listen to music, and does a song's sound explain the popularity of top Caucasian songs? | pandas, scikit-learn (PCA, t-SNE), plotly |
+| [moscow_vs_petersburg](music/moscow_vs_petersburg/) | Do Moscow and St. Petersburg listen to music on different schedules and prefer different genres? | pandas |
+| [caucasian_songs](music/caucasian_songs/) | Does a song's sound explain the popularity of top Caucasian songs? | scikit-learn (PCA, t-SNE), plotly |
 | [melody_generation](music/melody_generation/) | Can a small neural network continue a melody the way Bach wrote them? | TensorFlow / Keras (LSTM), music21 |
 
 ## Running
