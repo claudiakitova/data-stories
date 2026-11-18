@@ -8,7 +8,7 @@ Study projects for learning and teaching data science: real-life questions answe
 |---|---|---|
 | [game_player_value](business_analytics/game_player_value/) | How much will a new player of a mobile game bring in over 120 days, judging by their first week? | pandas, LightGBM |
 | [food_delivery](business_analytics/food_delivery/) | Do a few vendors dominate each market, what vendor segments exist, and why does a regression overstate what vouchers do? | scikit-learn (k-means), statsmodels |
-| [bahrain_orders](business_analytics/bahrain_orders/) | Which areas and vendors drove the ups and downs of food orders across Bahrain, and how much was Ramadan and the summer? | statsmodels (Poisson regression) |
+| [delivery_seasons](business_analytics/delivery_seasons/) | Which areas and vendors drove the ups and downs of food orders across Bahrain, and how much was Ramadan and the summer? | statsmodels (Poisson regression) |
 | [promo_forecast](business_analytics/promo_forecast/) | How many units will each store sell of a product on promotion? | pandas, LightGBM |
 | [car_prices](business_analytics/car_prices/) | What sets a car's price, and how closely can its specifications predict it? | scikit-learn, XGBoost |
 
@@ -20,7 +20,7 @@ Study projects for learning and teaching data science: real-life questions answe
 | [app_onboarding](crypto_and_finance/app_onboarding/) | Where do new users of a crypto-finance app drop out of the identity check, and who gets rejected? | pandas, matplotlib |
 | [app_usage](crypto_and_finance/app_usage/) | How many people use the app, do they come back, and which products earn money? | pandas, matplotlib |
 | [card_users](crypto_and_finance/card_users/) | Where are the app's card users, do their cards get used, and how concentrated is the money? | pandas, matplotlib |
-| [crypto_loans](crypto_and_finance/crypto_loans/) | Which crypto-backed loans get liquidated, and when? | pandas, matplotlib |
+| [loan_liquidations](crypto_and_finance/loan_liquidations/) | Which crypto-backed loans get liquidated, and when? | pandas, matplotlib |
 
 ## Language and AI
 
@@ -48,7 +48,7 @@ Study projects for learning and teaching data science: real-life questions answe
 
 | Project | Question | Tools |
 |---|---|---|
-| [moscow_vs_petersburg](music/moscow_vs_petersburg/) | Do Moscow and St. Petersburg listen to music on different schedules and prefer different genres? | pandas |
+| [city_listening](music/city_listening/) | Do Moscow and St. Petersburg listen to music on different schedules and prefer different genres? | pandas |
 | [caucasian_songs](music/caucasian_songs/) | Does a song's sound explain the popularity of top Caucasian songs? | scikit-learn (PCA, t-SNE), plotly |
 | [melody_generation](music/melody_generation/) | Can a small neural network continue a melody the way Bach wrote them? | TensorFlow / Keras (LSTM), music21 |
 
