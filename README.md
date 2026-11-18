@@ -29,7 +29,7 @@ Study projects for learning and teaching data science: real-life questions answe
 | [company_docs_chatbot](language_and_ai/company_docs_chatbot/) | How well can a chatbot find the right passage in a company's internal documents? | FastEmbed, BM25 |
 | [movie_review_sentiment](language_and_ai/movie_review_sentiment/) | Is an IMDB movie review positive or negative? A neural network, plus a function that scores any text | TensorFlow / Keras |
 | [review_sentiment](language_and_ai/review_sentiment/) | What do customers of an invoicing app complain about, how did it change over ten years, and which releases did they like least? | scikit-learn (TF-IDF, linear SVM), plotly |
-| [going_neural](language_and_ai/going_neural/) | What does word2vec learn about words from a single novel, Terry Pratchett's *Going Postal*? | PyTorch, scikit-learn (t-SNE), plotly |
+| [word_vectors](language_and_ai/word_vectors/) | What does word2vec learn about words from a single novel, Terry Pratchett's *Going Postal*? | PyTorch, scikit-learn (t-SNE), plotly |
 
 ## Climate and science
 
@@ -56,4 +56,4 @@ Study projects for learning and teaching data science: real-life questions answe
 
 ## Running
 
-Each project folder is self-contained: open the notebook in Jupyter or Google Colab, and the data it needs is next to it (except the novel used in going_neural, which is under copyright). Where the data is synthetic, the script that generated it (`make_data.py`) is in the folder too.
+Each project folder is self-contained: open the notebook in Jupyter or Google Colab, and the data it needs is next to it (except the novel used in word_vectors, which is under copyright). Where the data is synthetic, the script that generated it (`make_data.py`) is in the folder too.

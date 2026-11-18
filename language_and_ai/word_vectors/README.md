@@ -1,8 +1,8 @@
-# Going Neural: word2vec on Going Postal
+# What Word2vec Learns From One Novel
 
 What does a small neural network learn about words from a single novel?
 
-**Notebook:** [going_neural.ipynb](going_neural.ipynb) · **Data:** the text of Terry Pratchett's *Going Postal*, not included here because the book is under copyright
+**Notebook:** [word_vectors.ipynb](word_vectors.ipynb) · **Data:** the text of Terry Pratchett's *Going Postal*, not included here because the book is under copyright
 
 ## Data
 
