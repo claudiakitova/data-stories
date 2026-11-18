@@ -28,7 +28,7 @@ Study projects for learning and teaching data science: real-life questions answe
 |---|---|---|
 | [company_docs_chatbot](language_and_ai/company_docs_chatbot/) | How well can a chatbot find the right passage in a company's internal documents? | FastEmbed, BM25 |
 | [movie_review_sentiment](language_and_ai/movie_review_sentiment/) | Is an IMDB movie review positive or negative? A neural network, plus a function that scores any text | TensorFlow / Keras |
-| [review_sentiment](language_and_ai/review_sentiment/) | What do customers complain about in an app's reviews, how did it change over ten years, and which releases did they like least? | scikit-learn (TF-IDF, linear SVM), plotly |
+| [company_review_sentiment](language_and_ai/company_review_sentiment/) | What do customers complain about in an app's reviews, how did it change over ten years, and which releases did they like least? | scikit-learn (TF-IDF, linear SVM), plotly |
 | [word_vectors](language_and_ai/word_vectors/) | What does word2vec learn about words from a single novel? | PyTorch, scikit-learn (t-SNE), plotly |
 
 ## Climate and science
