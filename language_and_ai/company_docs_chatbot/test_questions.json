@@ -1,0 +1,162 @@
+[
+ {
+  "question": "Who approves a business trip?",
+  "document": "hr_business_trip.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "How far ahead do I need to request a trip abroad?",
+  "document": "hr_business_trip.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "What is the meal allowance when traveling?",
+  "document": "hr_business_trip.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "My VPN keeps dropping, what should I do?",
+  "document": "it_vpn.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "How do I work from home on internal sites?",
+  "document": "it_vpn.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "I forgot my password",
+  "document": "it_password.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "My account got locked after wrong attempts",
+  "document": "it_password.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "My mailbox is almost full",
+  "document": "it_email_archive.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "How fast does IT answer an urgent problem?",
+  "document": "it_service_desk.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "Can IT install new software for me?",
+  "document": "it_service_desk.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "How many vacation days do I get?",
+  "document": "hr_vacation.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "Can I carry unused vacation over to next year?",
+  "document": "hr_vacation.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "Do I need a doctor's note if I'm sick for two days?",
+  "document": "hr_sick_leave.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "What do I do on my first day?",
+  "document": "hr_onboarding.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "How long is probation?",
+  "document": "hr_onboarding.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "How do I get my money back for a work purchase?",
+  "document": "fin_expenses.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "Is a taxi reimbursed?",
+  "document": "fin_expenses.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "Can I buy something personal with the company card?",
+  "document": "fin_corporate_card.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "I lost my badge",
+  "document": "office_badge.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "Where can I leave my bike?",
+  "document": "office_parking.md",
+  "kind": "uses the documents' words"
+ },
+ {
+  "question": "Can I keep some days off for next year?",
+  "document": "hr_vacation.md",
+  "kind": "paraphrased"
+ },
+ {
+  "question": "Who signs off on flying to a conference in another country?",
+  "document": "hr_business_trip.md",
+  "kind": "paraphrased"
+ },
+ {
+  "question": "How much can I spend on lunch per day when I'm away for work?",
+  "document": "hr_business_trip.md",
+  "kind": "paraphrased"
+ },
+ {
+  "question": "The connection to the intranet keeps cutting out when I'm at home",
+  "document": "it_vpn.md",
+  "kind": "paraphrased"
+ },
+ {
+  "question": "I typed the wrong login too many times and now I can't get in",
+  "document": "it_password.md",
+  "kind": "paraphrased"
+ },
+ {
+  "question": "Outlook says I'm running out of space",
+  "document": "it_email_archive.md",
+  "kind": "paraphrased"
+ },
+ {
+  "question": "Who do I call when my computer won't turn on?",
+  "document": "it_service_desk.md",
+  "kind": "paraphrased"
+ },
+ {
+  "question": "I have the flu, do I need paperwork from a clinic?",
+  "document": "hr_sick_leave.md",
+  "kind": "paraphrased"
+ },
+ {
+  "question": "I paid for a client dinner myself, how do I get it back?",
+  "document": "fin_expenses.md",
+  "kind": "paraphrased"
+ },
+ {
+  "question": "Can I put a personal holiday on the company Visa?",
+  "document": "fin_corporate_card.md",
+  "kind": "paraphrased"
+ },
+ {
+  "question": "A friend is coming to see me at work tomorrow",
+  "document": "office_badge.md",
+  "kind": "paraphrased"
+ },
+ {
+  "question": "Is there a charger for my Tesla at the office?",
+  "document": "office_parking.md",
+  "kind": "paraphrased"
+ }
+]
