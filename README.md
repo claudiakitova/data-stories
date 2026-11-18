@@ -1,6 +1,6 @@
 # Data Stories
 
-Real-life questions answered with data, for learning and teaching data science. Each project starts from a question and ends with what the data says, including when a model turns out no better than a simple rule.
+Study projects for learning and teaching data science: real-life questions answered with data. Each project starts from a question and ends with what the data says, including when a model turns out no better than a simple rule.
 
 ## Business analytics
 
