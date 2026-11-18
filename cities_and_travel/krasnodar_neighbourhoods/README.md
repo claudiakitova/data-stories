@@ -1,6 +1,6 @@
 # Clustering the Neighborhoods of Krasnodar
 
-I lived in Krasnodar, Russia, and wanted to find out which of its neighborhoods are the most comfortable to live in, based on what's around them.
+Which neighborhoods of Krasnodar, Russia, are the most comfortable to live in, judging by what's around them?
 
 **Notebook:** [krasnodar_neighbourhoods.ipynb](krasnodar_neighbourhoods.ipynb)
 
